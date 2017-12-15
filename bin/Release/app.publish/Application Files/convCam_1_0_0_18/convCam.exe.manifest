@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.18" name="convCam.exe" publicKeyToken="0e371f6d85f89ca7" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="convCAM.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="convCam" version="4.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="convCam.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.AcroPDFLib.dll" size="8704">
+      <assemblyIdentity name="AxInterop.AcroPDFLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>IKEKPCPMy22aODOg2Gmt73QM+zg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="convCam.exe" size="754688">
+      <assemblyIdentity name="convCam" version="4.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>84GXG4cVRkgnG9r39RFBX2tOx2Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.AcroPDFLib.dll" size="10240">
+      <assemblyIdentity name="Interop.AcroPDFLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yZq58UxT0w2AualiGEOU6MB/I8M=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="convCAM.ico" size="766">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aY2Hj5zxlvd5da0XvFLYQqyfD7o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DH9B3DF1\Brad Crithfield" issuerKeyHash="be2aaa32f3da4d84881f49d724ebc45695a16e90" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>l7+K6VrQ9ApD/GIBL4zRwPAzVSw=</DigestValue></Reference></SignedInfo><SignatureValue>mpQ65BRAQLh0eAKHTNLJB2dJb4HEoqagbiiyboyzERFlhOTYbWGMo9FD6fayUosJh08CnEDhVnLtindOCavQBLGgphBM+GBGo8XypyOGtM78IXPGR+zirjXFy0x74mGJKaM1vRHMPKrZESXulsfkmlXRdqbYcmzbJBgLEAx8dY0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rU4douO06KFcqcruNrTIIz9xgAkG3tRnulA90Xn6FZlUnQSSuojDN1e1KIXg/VXydBXbbEWSHxLbfFsr3cdYDQsQrmiIKmSBMfz51sXNNFgcniHAgOQN6KQuLWeUFNHOQBmmpujuM/7PqH3WgEp+TO2yKvoilPFhKkRMlNG3/xk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2c5533f0c0d18c2f0162fc430af4d05ae98abf97" Description="" Url=""><as:assemblyIdentity version="1.0.0.18" name="convCam.exe" publicKeyToken="0e371f6d85f89ca7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DH9B3DF1\Brad Crithfield</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pxpJ4TUW5NpAcA9K5GzB2ULY6FU=</DigestValue></Reference></SignedInfo><SignatureValue>VwkjBqdEgqhMvaMVnMvVfCbfjh7aB3fmsW3sivmAXYbVAKq73/Bw+eR52QBHaULzQXOFapHovqfGRN9LDl4S5QgV3hl+ErmJKj3XHyecT1ANJ0xw0qA7GTw/sSEIE/tFybF+okMPhyUzJ9A024bGBq54jreF5RXPNWx6+vrMJL0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rU4douO06KFcqcruNrTIIz9xgAkG3tRnulA90Xn6FZlUnQSSuojDN1e1KIXg/VXydBXbbEWSHxLbfFsr3cdYDQsQrmiIKmSBMfz51sXNNFgcniHAgOQN6KQuLWeUFNHOQBmmpujuM/7PqH3WgEp+TO2yKvoilPFhKkRMlNG3/xk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAV6gAwIBAgIQPdBGEWVJ4qZC8jmMlLv8fzAJBgUrDgMCHQUAMDsxOTA3BgNVBAMeMABEAEgAOQBCADMARABGADEAXABCAHIAYQBkACAAQwByAGkAdABoAGYAaQBlAGwAZDAeFw0xMDA4MTIwMTE3NTRaFw0xMTA4MTIwNzE3NTRaMDsxOTA3BgNVBAMeMABEAEgAOQBCADMARABGADEAXABCAHIAYQBkACAAQwByAGkAdABoAGYAaQBlAGwAZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArU4douO06KFcqcruNrTIIz9xgAkG3tRnulA90Xn6FZlUnQSSuojDN1e1KIXg/VXydBXbbEWSHxLbfFsr3cdYDQsQrmiIKmSBMfz51sXNNFgcniHAgOQN6KQuLWeUFNHOQBmmpujuM/7PqH3WgEp+TO2yKvoilPFhKkRMlNG3/xkCAwEAATAJBgUrDgMCHQUAA4GBAER6ZsysKi0v5YRyd3xNEQjMbBc7MLbDrEyugQ9EsGlvKRMNovNMpf8NNi2nZ9nW7JjIdnP07BgWDiTz549hofFFELMa3NkFCNqosAsKtG3ouBR8rbvy9B86zX/VEUqmdKLbUdU3UkaicVCBGdX+eeDDSY27umtrX2B2or7YM33g</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

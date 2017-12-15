@@ -1,0 +1,97 @@
+MetaGCODE 
+
+MetaGCODE can:
+
+  be Pure GCODE
+  be GCODE with |variables| that will be substituted at GCODE generation time
+  utilize IF or LOOP logic statements (see below)
+  reference Code Snippet files
+
+
+When GCODE is generated, ConvCAM first extracts all metaGCODE from the test steps.
+This includes pulling in code snippets when directed by the #FILE designator.
+It then creates pure GCODE by building code according to IF, LOOP, and GCODE lines,
+while making the variable substitutions as it does so.
+
+NOTE: Code snippet files may consist of any metaGCODE, including references to other 
+code snippets. However, the depth of snippets calls to snippets may not exceed 20.
+
+CODE SNIPPET Syntax:
+===========================
+#FILE snippetFileName
+
+The snippetFileName file must reside in the ...My Documents\ConvCAM\Templates\Snippets
+directory.
+
+
+IF STATEMENTS (can be nested)
+=============================
+IF statements determine whether the enclosed code block is to be generated or
+skipped. If the condition is true, the code block will be generated. IF
+statements can be nested to accomplish effectual ANDing. Separate IF
+blocks may be used to accomplish ORing.
+
+Variables and condition parameters
+----------------------------------
+
+v: (variables)
+   literal
+   |variableName|
+
+oper: (not case sensitive)
+   greaterthan
+   lessthan
+   equalto
+   notequalto
+
+type: (only 1st letter required, 'a' or 'n')
+   alpha
+   numeric
+
+Syntax:
+------
+#IFn v1 oper v2 type
+  code
+  code
+  code
+#ENDIFn
+
+
+
+LOOP Statements (Used to generate code blocks that incorporate
+incrementing variable(s))
+===========================================================
+Loops can be nested. The number of repetitions is calculated by
+dividing LoopVar by maxStep, rounded to next highest integer. Step
+size is then determined to be LoopVar / repetitions, so step size will
+always be <= maxStep.
+  
+Optionally, more than one loopVar may be handled per loop. In that case,
+the number of repetitions will be the greatest of all the loopVar / maxStep
+calculations. 
+
+Variables
+---------
+loopVar: (Variable name that will be incrementing within loop)
+    |variable| (must be shown as variable, so substitions can take place)
+
+maxStep1 (maximum amount loopVar can be incremented by)
+    literal
+    |variable|
+
+stepType (determines how the value of loopVar is generated)
+    c (cumulative: 5, 10, 15, etc..)
+    r (relative: 5, 5, 5, etc..)
+
+
+Syntax
+------
+#LOOPn |loopVar1| maxStep1 stepType [|loopVar2| maxStep2 stepType2 [etc] ] 
+
+    code
+    code |loopVar1|
+    code |loopVar2|
+
+
+#ENDLOOPn
+

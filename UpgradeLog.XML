@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="convCam">
+</Property><Property Name="Solution File" Value="C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\convCam.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\convCam.suo">
+</Property><Property Name="Date" Value="Saturday, February 14, 2015">
+</Property><Property Name="Time" Value="11:54 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="convCam.sln" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\convCam.sln">
+</Event><Event ErrorLevel="0" Project="" Source="convCam.suo" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\convCam.suo">
+</Event><Event ErrorLevel="0" Project="convCam" Source="convCam.vbproj" Description="Project file successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\convCam.vbproj">
+</Event><Event ErrorLevel="0" Project="convCam" Source="convCam.vbproj.user" Description="Project user file successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\convCam.vbproj.user">
+</Event><Event ErrorLevel="0" Project="convCam" Source="FloatingCell.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\FloatingCell.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmErrorReport.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmErrorReport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmErrorReport.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmErrorReport.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmLicenseAgreement.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmLicenseAgreement.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmLicenseAgreement.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmLicenseAgreement.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmAbout.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmAbout.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmAbout.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmAbout.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="calc.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\calc.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="configHandler.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\configHandler.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="convCamPaths.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\convCamPaths.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="Crypto.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\Crypto.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="designHandler.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\designHandler.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmHelp.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmHelp.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmHelp.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmHelp.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmPartResolution.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmPartResolution.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmPartResolution.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmPartResolution.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmQuickHelp.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmQuickHelp.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmQuickHelp.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmQuickHelp.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmPartInfo.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmPartInfo.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmPartInfo.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmPartInfo.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmGenEditor.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmGenEditor.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmGenEditor.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmGenEditor.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmProcessPicker.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmProcessPicker.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmProcessPicker.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmProcessPicker.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmQuickStateViewer.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmQuickStateViewer.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmQuickStateViewer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmQuickStateViewer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSplash.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSplash.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSplash.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSplash.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmFixedTools.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmFixedTools.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmFixedTools.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmFixedTools.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmcalculator.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmcalculator.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmcalculator.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmcalculator.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmMetaCoder.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmMetaCoder.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmMetaCoder.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmMetaCoder.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmStateMaker.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmStateMaker.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmStateMaker.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmStateMaker.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSelectProcess.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSelectProcess.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSelectProcess.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSelectProcess.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSetupOrganizer.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSetupOrganizer.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSetupOrganizer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSetupOrganizer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmListEditor.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmListEditor.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmListEditor.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmListEditor.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="gCodeBuilder.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\gCodeBuilder.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="HwID.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\HwID.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="OrganizerUtils.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\OrganizerUtils.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="Preferences.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\Preferences.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="processIntegrityChecker.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\processIntegrityChecker.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="SingleToolStation.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\SingleToolStation.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="SystemHandler.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\SystemHandler.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="tabHandler.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\tabHandler.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="tableUtils.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\tableUtils.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="myList.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\myList.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="processFileHandler.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\processFileHandler.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="fileManager.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\fileManager.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmConvCam.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmConvCam.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmConvCam.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmConvCam.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="modGlobal.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\modGlobal.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="myXmlUtils.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\myXmlUtils.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="ToolStation.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\ToolStation.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="vars.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\vars.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="Zipper.vb" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\Zipper.vb">
+</Event><Event ErrorLevel="0" Project="convCam" Source="convCam_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\convCam_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\app.manifest" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="convCam" Source="convCAM.ico" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\convCAM.ico">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmErrorReport.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmErrorReport.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmLicenseAgreement.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmLicenseAgreement.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmAbout.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmHelp.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmHelp.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmPartResolution.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmPartResolution.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmQuickHelp.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmQuickHelp.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmGenEditor.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmGenEditor.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmProcessPicker.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmProcessPicker.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmQuickStateViewer.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmQuickStateViewer.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSplash.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSplash.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmFixedTools.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmFixedTools.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmcalculator.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmcalculator.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmMetaCoder.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmMetaCoder.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmStateMaker.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmStateMaker.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmConvCam.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmConvCam.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSelectProcess.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSelectProcess.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmSetupOrganizer.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmSetupOrganizer.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmListEditor.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmListEditor.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="frmPartInfo.resx" Description="File successfully backed up as C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\Backup\frmPartInfo.resx">
+</Event><Event ErrorLevel="0" Project="convCam" Source="convCam.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="convCam" Source="convCam.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="convCam.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="convCam.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="convCam" Source="convCam.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

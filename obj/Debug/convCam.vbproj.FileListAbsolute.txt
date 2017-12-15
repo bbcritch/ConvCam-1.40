@@ -1,0 +1,1398 @@
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmAddTool.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmSelectTool.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmAddTool.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmSelectTool.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.00\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.01\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.02\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03a\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\bin\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\bin\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\bin\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\bin\Debug\xmlUtils.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\bin\Debug\xmlUtils.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\bin\Debug\convCamPaths.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\bin\Debug\convCamPaths.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03b\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\bin\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\bin\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\bin\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\bin\Debug\xmlUtils.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\bin\Debug\xmlUtils.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\bin\Debug\convCamPaths.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\bin\Debug\convCamPaths.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmSettings.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.03c\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmLegacyMachine.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.03c.1\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmLegacyMachine.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.04\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmLegacyMachine.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.05\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmLegacyMachine.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.06\convCam\obj\Debug\conversionalCAM.splConvCam.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\conversionalCAM.splConvCam.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.07\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.splConvCam.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.08\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.09\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.10\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.11\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.12\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.13\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.14\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.15\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.16\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\xmlUtils.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\xmlUtils.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCamPaths.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\bin\Debug\convCamPaths.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.17\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.18\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.19\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCam.exe
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCam.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCam.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\xmlUtils.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\xmlUtils.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCamPaths.pdb
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\bin\Debug\convCamPaths.xml
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Tracy Anderson\Documents\Visual Studio 2008\Projects\convCam 1.20\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmToolOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.21\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.22\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.23\convCam\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.24\convCam\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCamPaths.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\xmlUtils.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\xmlUtils.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\xmlUtils.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCamPaths.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\convCamPaths.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.25\convCam\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.26\convCam\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.27\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.28\convCam\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.29\convCam\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.31\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.32\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.34\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\convCam 1.35\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\bin\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\bin\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\bin\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\bin\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\bin\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.Resources.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\convCam.exe.manifest
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\convCam.application
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\convCam.exe
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\convCam.xml
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\convCam.pdb
+C:\Documents and Settings\Brad Crithfield\My Documents\Visual Studio 2008\Projects\ConvCam 1.36\obj\Debug\conversionalCAM.frmQuickStateViewer.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\convCam.exe
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\convCam.xml
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\convCam.pdb
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\bin\Debug\convCam.exe.manifest
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\bin\Debug\convCam.application
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\bin\Debug\convCam.exe
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\bin\Debug\convCam.pdb
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\bin\Debug\convCam.xml
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmQuickStateViewer.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\convCam.exe.manifest
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\convCam.application
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.36\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\convCam.exe
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\convCam.xml
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\convCam.pdb
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\bin\Debug\convCam.exe.manifest
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\bin\Debug\convCam.application
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\bin\Debug\convCam.exe
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\bin\Debug\convCam.pdb
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\bin\Debug\convCam.xml
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmQuickStateViewer.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\convCam.exe.manifest
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.37\obj\Debug\convCam.application
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\convCam.exe
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\convCam.xml
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\convCam.pdb
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\bin\Debug\convCam.exe.manifest
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\bin\Debug\convCam.application
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\bin\Debug\convCam.exe
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\bin\Debug\convCam.pdb
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\bin\Debug\convCam.xml
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmQuickStateViewer.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\convCam.exe.manifest
+C:\Users\Brad\Documents\My Stuff\CCAM 012415\ConvCam 1.38\obj\Debug\convCam.application
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\convCam.exe
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\convCam.xml
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\convCam.pdb
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\bin\Debug\convCam.exe.manifest
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\bin\Debug\convCam.application
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\bin\Debug\convCam.exe
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\bin\Debug\convCam.pdb
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\bin\Debug\convCam.xml
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmQuickStateViewer.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\convCam.exe.manifest
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.38\obj\Debug\convCam.application
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\convCam.exe
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\convCam.xml
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\convCam.pdb
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\bin\Debug\convCam.exe.manifest
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\bin\Debug\convCam.application
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\bin\Debug\convCam.exe
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\bin\Debug\convCam.pdb
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\bin\Debug\convCam.xml
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmQuickStateViewer.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\convCam.exe.manifest
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.39\obj\Debug\convCam.application
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.vbproj.ResolveComReference.cache
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.exe
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.xml
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.pdb
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmErrorReport.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmLicenseAgreement.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmAbout.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmHelp.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmPartResolution.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmQuickHelp.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmGenEdit.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmProcessPicker.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmQuickStateViewer.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmSplash.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmFixedToolbox.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmCalculator.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmMetaCoder.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmStateMaker.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmConvCAM.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmSelectProcess.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmSetupOrganizer.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmListEditor.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.Resources.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmPartInfo.resources
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.vbproj.GenerateResource.Cache
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\convCam.exe.manifest
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\convCam.application
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\convCam.exe
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\convCam.pdb
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\convCam.xml
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.exe.manifest
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.application

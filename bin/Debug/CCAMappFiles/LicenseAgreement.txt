@@ -1,0 +1,38 @@
+LICENSE AGREEMENT FOR LEGACY WOODWORKING SOFTWARE - READ CAREFULLY!
+  
+  This License Agreement is a legal agreement between you (either an individual or a single entity) and LEGACY WOODWORKING for LEGACY WOODWORKING SOFTWARE, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("LEGACY WOODWORKING SOFTWARE"). By installing, copying, or otherwise using LEGACY WOODWORKING SOFTWARE, you agree to be bound by the terms of this License Agreement. If you do not agree to the terms of this License Agreement, you are not authorized to use LEGACY WOODWORKING SOFTWARE.
+  
+  LEGACY WOODWORKING SOFTWARE LICENSE 
+  
+  LEGACY WOODWORKING SOFTWARE is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. LEGACY WOODWORKING SOFTWARE is licensed, not sold.
+  
+  1. Grant of License 
+  This License Agreement grants you the following rights:
+  
+TBD
+ 
+  
+  2. Description of Other Rights and Limitations
+  
+  * Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble LEGACY WOODWORKING SOFTWARE.
+  
+  * Limitations on purchased LEGACY WOODWORKING SOFTWARE product distribution. You may only install your purchased LEGACY WOODWORKING SOFTWARE on a maximum of TBD computers that belong to YOU. You may NOT distribute your purchased LEGACY WOODWORKING SOFTWARE to other users for unauthorized use.
+  
+  * Separation of Components. LEGACY WOODWORKING SOFTWARE is licensed as a single product. Its component parts may not be separated for use on more than one computer.
+  
+  * Support Services. LEGACY WOODWORKING LLC may provide you with support services related to LEGACY WOODWORKING SOFTWARE ("Support"). Use of Support is governed by the LEGACY WOODWORKING LLC policies, in "online" documentation, and/or in other LEGACY WOODWORKING LLC-provided materials. Any supplemental software code provided to you as part of Support shall be considered part of LEGACY WOODWORKING SOFTWARE and subject to the terms and conditions of this License Agreement. With respect to technical information you provide to LEGACY WOODWORKING LLC as part of the Support, LEGACY WOODWORKING LLC may use such information for its business purposes, including for product support and development. LEGACY WOODWORKING LLC will not utilize such technical information in a form that personally identifies you.
+  
+  * Software Transfer. You may permanently transfer all of your rights under this License Agreement, provided the recipient agrees to the terms of this License Agreement.
+  
+  * Termination. Without prejudice to any other rights, LEGACY WOODWORKING LLC may terminate this License Agreement if you fail to comply with the terms and conditions of this License agreement. In such event, you must destroy all copies of LEGACY WOODWORKING SOFTWARE and all of its component parts.
+  
+  3. Copyright 
+  
+  All title and copyrights in and to LEGACY WOODWORKING SOFTWARE (including but not limited to any images, photographs, and text incorporated into LEGACY WOODWORKING SOFTWARE), the accompanying printed materials, and any copies of LEGACY WOODWORKING SOFTWARE are owned by LEGACY WOODWORKING LLC or its suppliers. LEGACY WOODWORKING SOFTWARE is protected by copyright laws and international treaty provisions. Therefore, you must treat LEGACY WOODWORKING SOFTWARE like any other copyrighted material except: you may install the LEGACY WOODWORKING SOFTWARE DemonstrationS on multiple computers and, you may install your purchased LEGACY WOODWORKING SOFTWARE on a total of three computers provided you keep the original software solely for backup or archival purposes.
+  
+  ====================================
+  
+  Disclaimer:
+  
+  LEGACY WOODWORKING SOFTWARE IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE IT AT YOUR OWN RISK. LEGACY WOODWORKING WILL NOT BE LIABLE FOR ANY DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE THROUGH YOUR USE OR MISUSE OF THIS SOFTWARE.
+  
