@@ -12,7 +12,7 @@
     Public Function makeGCodeAll() As String
 
         If DEMOMODE Then
-            makeGCodeAll = "GCODE is not produced in DEMO mode."
+            makeGCodeAll = "G CODE is not produced in DEMO mode."
             Exit Function
         End If
 
@@ -40,6 +40,7 @@
 
 
         ' Step through each process
+
         For i = 0 To pQty - 1
             If getCell(frmConvCAM.grdProcessList, i, 2) <> "" Or Not selFlag Then
                 ' Read process file in gProcessName list, load in their program variables
@@ -93,14 +94,31 @@
     End Function
     Private Function makeGCodeHeader() As String
         Dim h As String
+        Dim t() As String
 
         h = "(PART FILE NAME: #PARTFILENAME#)"
         h = h & vbCrLf & "(BLANK: " & MakeBlankDescr() & ")"
 
+        ' Add gcodepartcomment if there is one.
+        If GCodePartComment.Length > 0 Then
+            t = GCodePartComment.Replace(vbCrLf, vbLf).Split(vbLf)
+            h = h & vbLf & "()" & vbLf
+            h = h & "(PART DESCRIPTION:)" & vbLf
+            For i = 0 To t.Count - 1
+                If t(i).Length > 0 Then
+                    h = h & "(" & t(i) & ")" & vbLf
+                End If
+            Next
+            h = h & "()"
+        End If
 
 
         Dim toolList As New myList
-        toolList.setList(tsMan.UniqueToolList(dh.getToolList))
+        Dim s As New myList
+
+        s.setList(dh.getProcessList)
+        toolList.setList(tsMan.UniqueToolList(dh.makeToolList(s)))
+        ''toolList.setList(dh.makeToolList(s))
 
         For i = 0 To toolList.length(DL) - 1
             h = h & vbCrLf & "(TOOL " & (i + 1).ToString & ": " & MakeToolDescr(toolList.getItem(i, DL)) & ")"
@@ -153,6 +171,8 @@
 
         Dim f As New fileManager, metaC As String, fname As String
 
+        Dim t() As String
+
         fname = gPath.addSlash(gPath.templateCodePath)
         metaC = f.fileRead(fname & p.getMetagCodeFileName)
 
@@ -165,8 +185,22 @@
         finalGcode = VarsToVals(finalGcode)
 
         makeGcode = "()" & vbLf
-        makeGcode = makeGcode & "(TOOL PATH: " & processName & ")" & vbLf
+        makeGcode = makeGcode & "(TOOLPATH: " & processName & ")" & vbLf
         makeGcode = makeGcode & "()" & vbLf
+
+        Dim processDescription As String = stateVars.getVar("GCODETOOLPATHDESCRIPTION")
+        processDescription = stripBlankLines(processDescription)
+
+        If processDescription.Length > 0 Then
+            makeGcode = makeGcode & "(Toolpath Description:)" & vbLf
+            t = processDescription.Split(vbLf)
+            For i = 0 To t.Count - 1
+                If t(i).Length > 0 Then
+                    makeGcode = makeGcode & "(" & t(i) & ")" & vbLf
+                End If
+            Next
+            makeGcode = makeGcode & "()" & vbLf
+        End If
         makeGcode = makeGcode & finalGcode & vbLf
 
     End Function

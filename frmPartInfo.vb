@@ -10,7 +10,8 @@
         
         PartFileName = txtPartName.Text
         DesignerName = txtDesigner.Text
-        Descriptions = rtbDescriptions.Text
+        Descriptions = stripBlankLines(rtbDescriptions.Text)
+        GCodePartComment = stripblanklines(txtGCodePartComment.Text)
 
         Me.Close()
 
@@ -43,7 +44,8 @@
         abortSave = False
         txtDesigner.Text = DesignerName
         txtPartName.Text = PartFileName
-        rtbDescriptions.Text = Descriptions
+        rtbDescriptions.Text = stripBlankLines(Descriptions)
+        txtGCodePartComment.Text = stripBlankLines(GCodePartComment)
 
         If txtPartName.Text = "" Then
             txtPartName.Text = "enter_part_name"
@@ -52,7 +54,6 @@
         End If
 
     End Sub
-
     Private Sub btnChooseFolder_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnChooseFolder.Click
 
         Dim x As New myXmlUtils

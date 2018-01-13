@@ -63,6 +63,7 @@ Module modGlobal
     Public PartFileName As String = ""
     Public DesignerName As String = ""
     Public Descriptions As String = ""
+    Public GCodePartComment As String = ""
 
     Public Const DL = "~"
 
@@ -417,4 +418,17 @@ Module modGlobal
 
 
     End Sub
+    Public Function stripBlankLines(ByVal s As String) As String
+
+        Dim t() As String = s.Trim.Replace(vbCrLf, vbLf).Replace(vbCr, "").Split(vbLf)
+
+        stripBlankLines = t(0)
+
+        For i = 1 To t.Length - 1
+            If t(i).Length > 0 Then
+                stripBlankLines = stripBlankLines & vbLf & t(i)
+            End If
+        Next
+
+    End Function
 End Module

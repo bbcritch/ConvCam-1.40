@@ -89,7 +89,7 @@ Partial Class frmSelectProcess
         DataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.White
         DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
         Me.ProcessName.DefaultCellStyle = DataGridViewCellStyle4
-        Me.ProcessName.HeaderText = "Tool Path Template Name"
+        Me.ProcessName.HeaderText = "Toolpath Template Name"
         Me.ProcessName.Name = "ProcessName"
         Me.ProcessName.ReadOnly = True
         '
@@ -134,7 +134,7 @@ Partial Class frmSelectProcess
         Me.MinimizeBox = False
         Me.Name = "frmSelectProcess"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
-        Me.Text = "Select Tool Path Template"
+        Me.Text = "Select Toolpath Template"
         CType(Me.grdProcessCatalog, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()

@@ -5,7 +5,7 @@
     Dim selectedItemRow As Integer
 
     Private Sub frmSelectProcess_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        lblProcessSelectStatus.Text = "Select a Tool Path.."
+        lblProcessSelectStatus.Text = "Select a Toolpath.."
         dialogResponse = "cancel"
         loadProcessList()
         ClearSelection()
@@ -55,7 +55,7 @@
         Next
 
         selectedItemRow = -1
-        lblProcessSelectStatus.Text = "Select a Tool Path.."
+        lblProcessSelectStatus.Text = "Select a Toolpath.."
 
 
     End Sub
@@ -72,7 +72,7 @@
         Dim t As String, f As New fileManager
 
         If selectedItemRow = -1 Then
-            lblProcessSelectStatus.Text = "No Tool Path is selected. OK ignored"
+            lblProcessSelectStatus.Text = "No Toolpath is selected. OK ignored"
             Exit Sub
         End If
 
@@ -103,6 +103,6 @@
         selectedItemRow = grdProcessCatalog.CurrentCellAddress.Y
         ClearSelection()
         setCell(grdProcessCatalog, selectedItemRow, 0, ">>")
-        lblProcessSelectStatus.Text = "Selected Tool Path: " & getCell(grdProcessCatalog, selectedItemRow, 1)
+        lblProcessSelectStatus.Text = "Selected Toolpath: " & getCell(grdProcessCatalog, selectedItemRow, 1)
     End Sub
 End Class

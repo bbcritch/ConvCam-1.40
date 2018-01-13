@@ -6,7 +6,7 @@
 
         Select Case editorDesignator
 
-            Case "Help Editor", "State Description", "Group Description", "Tool Path Description"
+            Case "Help Editor", "State Description", "Group Description", "Toolpath Description"
                 Me.Text = editorDesignator
                 txtEditor.Text = editorString
             Case Else
@@ -32,7 +32,7 @@
 
         Select Case editorDesignator
 
-            Case "Help Editor", "State Description", "Group Description", "Tool Path Description"
+            Case "Help Editor", "State Description", "Group Description", "Toolpath Description"
                 editorString = txtEditor.Text
             Case Else
                 If txtEditor.Text <> "" Then

@@ -20,7 +20,7 @@ Public Class frmStateMaker
         rebuildProcessTemplate()
 
         If cmbProcess.Text = "" Then
-            MsgBox("No Tool Path Name", MsgBoxStyle.OkOnly)
+            MsgBox("No Toolpath Name", MsgBoxStyle.OkOnly)
         Else
             f.fileWrite(makeStateMakerFileName, processFileContent)
             t = cmbProcess.Text
@@ -806,11 +806,11 @@ Public Class frmStateMaker
         Dim f As New fileManager
 
         If cmbProcess.Text = "" Then
-            MsgBox("There is no Tool Path selected.")
+            MsgBox("There is no Toolpath selected.")
             Exit Sub
         End If
 
-        If MsgBox("Are you sure you want to delete this Tool Path?", MsgBoxStyle.YesNo) = MsgBoxResult.No Then Exit Sub
+        If MsgBox("Are you sure you want to delete this Toolpath?", MsgBoxStyle.YesNo) = MsgBoxResult.No Then Exit Sub
 
         Dim s As String = f.fileRead(makeStateMakerFileName)
         saveToArchive(s)

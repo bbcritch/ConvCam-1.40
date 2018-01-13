@@ -186,6 +186,8 @@
 
         getStateList = ""
 
+        Dim tempCurrent = currentState
+
         currentState = getStartState()
         nxtSta = currentState
 
@@ -195,6 +197,7 @@
             nxtSta = nextState()
         End While
 
+        currentState = tempCurrent
 
     End Function
     Public Function getProcessInfo(ByVal tagPath As String)
@@ -342,7 +345,7 @@
             If stateVars.getVar(parmName) <> x.extract(ToolLibraryVals, parmName) Then
                 If Not firstFlag Then
                     t = appendString(t, "  Tool Paramater Value Mis-match", vbLf)
-                    t = appendString(t, "  Parameter            Tool Path Value      Tool Libr Value", vbLf)
+                    t = appendString(t, "  Parameter            Toolpath Value       Tool Libr Value", vbLf)
                     t = appendString(t, "  -------------------- -------------------- --------------------", vbLf)
                     firstFlag = True
                 End If

@@ -260,7 +260,7 @@ Partial Class frmCalculator
         Me.btnProcess.Name = "btnProcess"
         Me.btnProcess.Size = New System.Drawing.Size(141, 27)
         Me.btnProcess.TabIndex = 125
-        Me.btnProcess.Text = "Tool Path"
+        Me.btnProcess.Text = "Toolpath"
         Me.btnProcess.UseVisualStyleBackColor = True
         '
         'answer

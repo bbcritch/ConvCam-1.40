@@ -55,7 +55,7 @@ Partial Class frmProcessPicker
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(336, 25)
         Me.Label2.TabIndex = 3
-        Me.Label2.Text = "Select the desired Tool Path from the list."
+        Me.Label2.Text = "Select the desired Toolpath from the list."
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'btnCancel
@@ -96,7 +96,7 @@ Partial Class frmProcessPicker
         Me.Controls.Add(Me.lstProcesses)
         Me.Name = "frmProcessPicker"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
-        Me.Text = "Tool Path Picker"
+        Me.Text = "Toolpath Picker"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

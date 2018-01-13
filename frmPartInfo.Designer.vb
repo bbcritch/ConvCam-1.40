@@ -34,6 +34,8 @@ Partial Class frmPartInfo
         Me.Label5 = New System.Windows.Forms.Label()
         Me.btnChooseFolder = New System.Windows.Forms.Button()
         Me.dlgFolder = New System.Windows.Forms.FolderBrowserDialog()
+        Me.txtGCodePartComment = New System.Windows.Forms.RichTextBox()
+        Me.Label6 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -54,7 +56,7 @@ Partial Class frmPartInfo
         '
         'txtDesigner
         '
-        Me.txtDesigner.Location = New System.Drawing.Point(7, 86)
+        Me.txtDesigner.Location = New System.Drawing.Point(7, 81)
         Me.txtDesigner.Name = "txtDesigner"
         Me.txtDesigner.Size = New System.Drawing.Size(281, 20)
         Me.txtDesigner.TabIndex = 2
@@ -62,7 +64,7 @@ Partial Class frmPartInfo
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(10, 70)
+        Me.Label2.Location = New System.Drawing.Point(10, 63)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(49, 13)
         Me.Label2.TabIndex = 3
@@ -70,7 +72,7 @@ Partial Class frmPartInfo
         '
         'rtbDescriptions
         '
-        Me.rtbDescriptions.Location = New System.Drawing.Point(7, 143)
+        Me.rtbDescriptions.Location = New System.Drawing.Point(7, 128)
         Me.rtbDescriptions.Name = "rtbDescriptions"
         Me.rtbDescriptions.Size = New System.Drawing.Size(280, 89)
         Me.rtbDescriptions.TabIndex = 7
@@ -79,7 +81,7 @@ Partial Class frmPartInfo
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(10, 127)
+        Me.Label4.Location = New System.Drawing.Point(10, 112)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(71, 13)
         Me.Label4.TabIndex = 8
@@ -88,7 +90,7 @@ Partial Class frmPartInfo
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(10, 243)
+        Me.Label3.Location = New System.Drawing.Point(10, 301)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(193, 13)
         Me.Label3.TabIndex = 9
@@ -96,7 +98,7 @@ Partial Class frmPartInfo
         '
         'btnCancel
         '
-        Me.btnCancel.Location = New System.Drawing.Point(148, 272)
+        Me.btnCancel.Location = New System.Drawing.Point(149, 317)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(66, 28)
         Me.btnCancel.TabIndex = 10
@@ -105,7 +107,7 @@ Partial Class frmPartInfo
         '
         'btnOK
         '
-        Me.btnOK.Location = New System.Drawing.Point(220, 272)
+        Me.btnOK.Location = New System.Drawing.Point(220, 317)
         Me.btnOK.Name = "btnOK"
         Me.btnOK.Size = New System.Drawing.Size(68, 28)
         Me.btnOK.TabIndex = 11
@@ -116,7 +118,7 @@ Partial Class frmPartInfo
         '
         Me.Label5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.Label5.Font = New System.Drawing.Font("Courier New", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(7, 310)
+        Me.Label5.Location = New System.Drawing.Point(7, 357)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(281, 23)
         Me.Label5.TabIndex = 12
@@ -125,18 +127,37 @@ Partial Class frmPartInfo
         '
         'btnChooseFolder
         '
-        Me.btnChooseFolder.Location = New System.Drawing.Point(7, 272)
+        Me.btnChooseFolder.Location = New System.Drawing.Point(7, 317)
         Me.btnChooseFolder.Name = "btnChooseFolder"
         Me.btnChooseFolder.Size = New System.Drawing.Size(109, 28)
         Me.btnChooseFolder.TabIndex = 13
         Me.btnChooseFolder.Text = "Choose Folder"
         Me.btnChooseFolder.UseVisualStyleBackColor = True
         '
+        'txtGCodePartComment
+        '
+        Me.txtGCodePartComment.Location = New System.Drawing.Point(7, 244)
+        Me.txtGCodePartComment.Name = "txtGCodePartComment"
+        Me.txtGCodePartComment.Size = New System.Drawing.Size(280, 54)
+        Me.txtGCodePartComment.TabIndex = 14
+        Me.txtGCodePartComment.Text = ""
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(10, 228)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(112, 13)
+        Me.Label6.TabIndex = 15
+        Me.Label6.Text = "G Code Part Comment"
+        '
         'frmPartInfo
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(296, 335)
+        Me.ClientSize = New System.Drawing.Size(296, 389)
+        Me.Controls.Add(Me.Label6)
+        Me.Controls.Add(Me.txtGCodePartComment)
         Me.Controls.Add(Me.btnChooseFolder)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.btnOK)
@@ -167,4 +188,6 @@ Partial Class frmPartInfo
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents btnChooseFolder As System.Windows.Forms.Button
     Friend WithEvents dlgFolder As System.Windows.Forms.FolderBrowserDialog
+    Friend WithEvents txtGCodePartComment As System.Windows.Forms.RichTextBox
+    Friend WithEvents Label6 As System.Windows.Forms.Label
 End Class

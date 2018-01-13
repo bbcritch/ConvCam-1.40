@@ -23,12 +23,12 @@ Partial Class frmConvCAM
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmConvCAM))
-        Dim DataGridViewCellStyle13 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle14 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle15 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle16 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle17 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle18 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle37 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle38 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle39 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle40 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle41 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle42 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.FileToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.NewToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -88,10 +88,6 @@ Partial Class frmConvCAM
         Me.Part = New System.Windows.Forms.TabPage()
         Me.pnlPart = New System.Windows.Forms.Panel()
         Me.btnBlankDescription = New System.Windows.Forms.Button()
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.grdProcessList = New System.Windows.Forms.DataGridView()
-        Me.btnProcAdd = New System.Windows.Forms.Button()
-        Me.btnAddNewProcess = New System.Windows.Forms.Button()
         Me.grpPartProcesses = New System.Windows.Forms.GroupBox()
         Me.btnEdit = New System.Windows.Forms.Button()
         Me.btnSeqDn = New System.Windows.Forms.Button()
@@ -105,12 +101,18 @@ Partial Class frmConvCAM
         Me.Label4 = New System.Windows.Forms.Label()
         Me.btnMakeGcode = New System.Windows.Forms.Button()
         Me.txtGcodeBox = New System.Windows.Forms.RichTextBox()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.grdProcessList = New System.Windows.Forms.DataGridView()
+        Me.selCol = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.ProcessName = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.GCode = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.btnProcAdd = New System.Windows.Forms.Button()
+        Me.btnAddNewProcess = New System.Windows.Forms.Button()
         Me.grpToolManager = New System.Windows.Forms.GroupBox()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.txtToolStations = New System.Windows.Forms.RichTextBox()
         Me.pnlProcess = New System.Windows.Forms.Panel()
-        Me.picBigPic = New System.Windows.Forms.PictureBox()
         Me.GroupBox8 = New System.Windows.Forms.GroupBox()
         Me.btnCancelProcessEdit = New System.Windows.Forms.Button()
         Me.btnFinishAndSave = New System.Windows.Forms.Button()
@@ -124,6 +126,8 @@ Partial Class frmConvCAM
         Me.Parameter = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Value = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.cmdButtons = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.ColumnType = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Statename = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.grpTitle = New System.Windows.Forms.GroupBox()
         Me.btnSelectNew = New System.Windows.Forms.Button()
         Me.radPrompt3 = New System.Windows.Forms.RadioButton()
@@ -141,22 +145,21 @@ Partial Class frmConvCAM
         Me.btnDone = New System.Windows.Forms.Button()
         Me.btNext = New System.Windows.Forms.Button()
         Me.btnBack = New System.Windows.Forms.Button()
+        Me.picBigPic = New System.Windows.Forms.PictureBox()
         Me.tabMain = New System.Windows.Forms.TabControl()
-        Me.selCol = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.ProcessName = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.GCode = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.txtGCodeToolPathDescription = New System.Windows.Forms.RichTextBox()
+        Me.lblGcodeToolPathDescription = New System.Windows.Forms.Label()
         Me.MenuStrip1.SuspendLayout()
         Me.Log.SuspendLayout()
         Me.Report1.SuspendLayout()
         Me.Part.SuspendLayout()
         Me.pnlPart.SuspendLayout()
-        Me.GroupBox1.SuspendLayout()
-        CType(Me.grdProcessList, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.grpPartProcesses.SuspendLayout()
         Me.Report.SuspendLayout()
+        Me.GroupBox1.SuspendLayout()
+        CType(Me.grdProcessList, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.grpToolManager.SuspendLayout()
         Me.pnlProcess.SuspendLayout()
-        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox8.SuspendLayout()
         Me.GroupBox6.SuspendLayout()
         Me.pnlInputs.SuspendLayout()
@@ -165,6 +168,7 @@ Partial Class frmConvCAM
         Me.Panel5.SuspendLayout()
         CType(Me.picSmallPic, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel4.SuspendLayout()
+        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.tabMain.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -187,58 +191,58 @@ Partial Class frmConvCAM
         'NewToolStripMenuItem
         '
         Me.NewToolStripMenuItem.Name = "NewToolStripMenuItem"
-        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.NewToolStripMenuItem.Text = "New Part..."
         '
         'OpenToolStripMenuItem
         '
         Me.OpenToolStripMenuItem.Name = "OpenToolStripMenuItem"
-        Me.OpenToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.OpenToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.OpenToolStripMenuItem.Text = "Open Part..."
         '
         'SaveToolStripMenuItem
         '
         Me.SaveToolStripMenuItem.Name = "SaveToolStripMenuItem"
-        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.SaveToolStripMenuItem.Text = "Save Part..."
         '
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(149, 6)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(146, 6)
         '
         'SaveGCodeToolStripMenuItem
         '
         Me.SaveGCodeToolStripMenuItem.Name = "SaveGCodeToolStripMenuItem"
-        Me.SaveGCodeToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.SaveGCodeToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.SaveGCodeToolStripMenuItem.Text = "Save G Code"
         '
         'ToolStripSeparator3
         '
         Me.ToolStripSeparator3.Name = "ToolStripSeparator3"
-        Me.ToolStripSeparator3.Size = New System.Drawing.Size(149, 6)
+        Me.ToolStripSeparator3.Size = New System.Drawing.Size(146, 6)
         '
         'PrintToolStripMenuItem
         '
         Me.PrintToolStripMenuItem.Name = "PrintToolStripMenuItem"
-        Me.PrintToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.PrintToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.PrintToolStripMenuItem.Text = "Print Report..."
         '
         'PrintPreviewToolStripMenuItem
         '
         Me.PrintPreviewToolStripMenuItem.Name = "PrintPreviewToolStripMenuItem"
-        Me.PrintPreviewToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.PrintPreviewToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.PrintPreviewToolStripMenuItem.Text = "PrintPreview..."
         '
         'ToolStripSeparator2
         '
         Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
-        Me.ToolStripSeparator2.Size = New System.Drawing.Size(149, 6)
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(146, 6)
         '
         'ExitToolStripMenuItem2
         '
         Me.ExitToolStripMenuItem2.Name = "ExitToolStripMenuItem2"
-        Me.ExitToolStripMenuItem2.Size = New System.Drawing.Size(152, 22)
+        Me.ExitToolStripMenuItem2.Size = New System.Drawing.Size(149, 22)
         Me.ExitToolStripMenuItem2.Text = "Exit"
         '
         'ViewToolStripMenuItem
@@ -252,7 +256,7 @@ Partial Class frmConvCAM
         '
         Me.DisplayUnitsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.EnglishToolStripMenuItem, Me.MetricToolStripMenuItem})
         Me.DisplayUnitsToolStripMenuItem.Name = "DisplayUnitsToolStripMenuItem"
-        Me.DisplayUnitsToolStripMenuItem.Size = New System.Drawing.Size(192, 22)
+        Me.DisplayUnitsToolStripMenuItem.Size = New System.Drawing.Size(195, 22)
         Me.DisplayUnitsToolStripMenuItem.Text = "Display Units"
         '
         'EnglishToolStripMenuItem
@@ -270,8 +274,8 @@ Partial Class frmConvCAM
         'ToolStripMenuItem1
         '
         Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
-        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(192, 22)
-        Me.ToolStripMenuItem1.Text = "GCODE Training: High"
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(195, 22)
+        Me.ToolStripMenuItem1.Text = "G CODE Training: High"
         '
         'SettingsToolStripMenuItem
         '
@@ -415,25 +419,25 @@ Partial Class frmConvCAM
         'StateMakerToolStripMenuItem1
         '
         Me.StateMakerToolStripMenuItem1.Name = "StateMakerToolStripMenuItem1"
-        Me.StateMakerToolStripMenuItem1.Size = New System.Drawing.Size(178, 22)
+        Me.StateMakerToolStripMenuItem1.Size = New System.Drawing.Size(181, 22)
         Me.StateMakerToolStripMenuItem1.Text = "State Maker"
         '
         'IntegrityCheckToolStripMenuItem
         '
         Me.IntegrityCheckToolStripMenuItem.Name = "IntegrityCheckToolStripMenuItem"
-        Me.IntegrityCheckToolStripMenuItem.Size = New System.Drawing.Size(178, 22)
+        Me.IntegrityCheckToolStripMenuItem.Size = New System.Drawing.Size(181, 22)
         Me.IntegrityCheckToolStripMenuItem.Text = "Integrity Check"
         '
         'GCODEDebugOFFToolStripMenuItem
         '
         Me.GCODEDebugOFFToolStripMenuItem.Name = "GCODEDebugOFFToolStripMenuItem"
-        Me.GCODEDebugOFFToolStripMenuItem.Size = New System.Drawing.Size(178, 22)
-        Me.GCODEDebugOFFToolStripMenuItem.Text = "GCODE Debug: OFF"
+        Me.GCODEDebugOFFToolStripMenuItem.Size = New System.Drawing.Size(181, 22)
+        Me.GCODEDebugOFFToolStripMenuItem.Text = "G CODE Debug: OFF"
         '
         'TestFunctionToolStripMenuItem
         '
         Me.TestFunctionToolStripMenuItem.Name = "TestFunctionToolStripMenuItem"
-        Me.TestFunctionToolStripMenuItem.Size = New System.Drawing.Size(178, 22)
+        Me.TestFunctionToolStripMenuItem.Size = New System.Drawing.Size(181, 22)
         Me.TestFunctionToolStripMenuItem.Text = "Test Function"
         '
         'dlgOpen
@@ -566,53 +570,6 @@ Partial Class frmConvCAM
         Me.btnBlankDescription.Text = "Blank Description"
         Me.btnBlankDescription.UseVisualStyleBackColor = True
         '
-        'GroupBox1
-        '
-        Me.GroupBox1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox1.Controls.Add(Me.grdProcessList)
-        Me.GroupBox1.Controls.Add(Me.btnProcAdd)
-        Me.GroupBox1.Controls.Add(Me.btnAddNewProcess)
-        Me.GroupBox1.Location = New System.Drawing.Point(9, 29)
-        Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(263, 424)
-        Me.GroupBox1.TabIndex = 39
-        Me.GroupBox1.TabStop = False
-        Me.GroupBox1.Text = "Tool Path List"
-        '
-        'grdProcessList
-        '
-        Me.grdProcessList.AllowUserToAddRows = False
-        Me.grdProcessList.AllowUserToResizeColumns = False
-        Me.grdProcessList.AllowUserToResizeRows = False
-        Me.grdProcessList.BackgroundColor = System.Drawing.SystemColors.ButtonFace
-        Me.grdProcessList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grdProcessList.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.selCol, Me.ProcessName, Me.GCode})
-        Me.grdProcessList.Location = New System.Drawing.Point(10, 48)
-        Me.grdProcessList.Name = "grdProcessList"
-        Me.grdProcessList.RowHeadersVisible = False
-        Me.grdProcessList.Size = New System.Drawing.Size(244, 371)
-        Me.grdProcessList.TabIndex = 43
-        '
-        'btnProcAdd
-        '
-        Me.btnProcAdd.Location = New System.Drawing.Point(168, 19)
-        Me.btnProcAdd.Name = "btnProcAdd"
-        Me.btnProcAdd.Size = New System.Drawing.Size(75, 22)
-        Me.btnProcAdd.TabIndex = 41
-        Me.btnProcAdd.Text = "Add Existing"
-        Me.btnProcAdd.UseVisualStyleBackColor = True
-        '
-        'btnAddNewProcess
-        '
-        Me.btnAddNewProcess.BackColor = System.Drawing.SystemColors.Control
-        Me.btnAddNewProcess.Location = New System.Drawing.Point(27, 19)
-        Me.btnAddNewProcess.Name = "btnAddNewProcess"
-        Me.btnAddNewProcess.Size = New System.Drawing.Size(75, 22)
-        Me.btnAddNewProcess.TabIndex = 40
-        Me.btnAddNewProcess.Text = "Add New"
-        Me.btnAddNewProcess.UseVisualStyleBackColor = False
-        '
         'grpPartProcesses
         '
         Me.grpPartProcesses.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
@@ -625,7 +582,7 @@ Partial Class frmConvCAM
         Me.grpPartProcesses.Size = New System.Drawing.Size(263, 82)
         Me.grpPartProcesses.TabIndex = 0
         Me.grpPartProcesses.TabStop = False
-        Me.grpPartProcesses.Text = "Remove / Edit / Arrange Tool Paths"
+        Me.grpPartProcesses.Text = "Remove / Edit / Arrange Toolpaths"
         '
         'btnEdit
         '
@@ -729,9 +686,9 @@ Partial Class frmConvCAM
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(166, 503)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(114, 16)
+        Me.Label4.Size = New System.Drawing.Size(110, 16)
         Me.Label4.TabIndex = 4
-        Me.Label4.Text = "Select Tool Paths"
+        Me.Label4.Text = "Select Toolpaths"
         '
         'btnMakeGcode
         '
@@ -755,6 +712,93 @@ Partial Class frmConvCAM
         Me.txtGcodeBox.Size = New System.Drawing.Size(642, 471)
         Me.txtGcodeBox.TabIndex = 2
         Me.txtGcodeBox.Text = ""
+        '
+        'GroupBox1
+        '
+        Me.GroupBox1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox1.Controls.Add(Me.grdProcessList)
+        Me.GroupBox1.Controls.Add(Me.btnProcAdd)
+        Me.GroupBox1.Controls.Add(Me.btnAddNewProcess)
+        Me.GroupBox1.Location = New System.Drawing.Point(9, 29)
+        Me.GroupBox1.Name = "GroupBox1"
+        Me.GroupBox1.Size = New System.Drawing.Size(263, 424)
+        Me.GroupBox1.TabIndex = 39
+        Me.GroupBox1.TabStop = False
+        Me.GroupBox1.Text = "Toolpath List"
+        '
+        'grdProcessList
+        '
+        Me.grdProcessList.AllowUserToAddRows = False
+        Me.grdProcessList.AllowUserToResizeColumns = False
+        Me.grdProcessList.AllowUserToResizeRows = False
+        Me.grdProcessList.BackgroundColor = System.Drawing.SystemColors.ButtonFace
+        Me.grdProcessList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.grdProcessList.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.selCol, Me.ProcessName, Me.GCode})
+        Me.grdProcessList.Location = New System.Drawing.Point(10, 48)
+        Me.grdProcessList.Name = "grdProcessList"
+        Me.grdProcessList.RowHeadersVisible = False
+        Me.grdProcessList.Size = New System.Drawing.Size(244, 371)
+        Me.grdProcessList.TabIndex = 43
+        '
+        'selCol
+        '
+        DataGridViewCellStyle37.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle37.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle37.ForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle37.SelectionBackColor = System.Drawing.Color.White
+        DataGridViewCellStyle37.SelectionForeColor = System.Drawing.Color.Black
+        Me.selCol.DefaultCellStyle = DataGridViewCellStyle37
+        Me.selCol.Frozen = True
+        Me.selCol.HeaderText = ""
+        Me.selCol.Name = "selCol"
+        Me.selCol.ReadOnly = True
+        Me.selCol.Resizable = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.selCol.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable
+        Me.selCol.Width = 30
+        '
+        'ProcessName
+        '
+        Me.ProcessName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None
+        DataGridViewCellStyle38.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle38.ForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle38.SelectionBackColor = System.Drawing.Color.White
+        DataGridViewCellStyle38.SelectionForeColor = System.Drawing.Color.Black
+        Me.ProcessName.DefaultCellStyle = DataGridViewCellStyle38
+        Me.ProcessName.Frozen = True
+        Me.ProcessName.HeaderText = "Toolpath Template Name"
+        Me.ProcessName.Name = "ProcessName"
+        Me.ProcessName.ReadOnly = True
+        Me.ProcessName.Width = 160
+        '
+        'GCode
+        '
+        Me.GCode.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
+        DataGridViewCellStyle39.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle39.Font = New System.Drawing.Font("Wingdings 2", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
+        Me.GCode.DefaultCellStyle = DataGridViewCellStyle39
+        Me.GCode.HeaderText = "G Code"
+        Me.GCode.Name = "GCode"
+        Me.GCode.ReadOnly = True
+        '
+        'btnProcAdd
+        '
+        Me.btnProcAdd.Location = New System.Drawing.Point(168, 19)
+        Me.btnProcAdd.Name = "btnProcAdd"
+        Me.btnProcAdd.Size = New System.Drawing.Size(75, 22)
+        Me.btnProcAdd.TabIndex = 41
+        Me.btnProcAdd.Text = "Add Existing"
+        Me.btnProcAdd.UseVisualStyleBackColor = True
+        '
+        'btnAddNewProcess
+        '
+        Me.btnAddNewProcess.BackColor = System.Drawing.SystemColors.Control
+        Me.btnAddNewProcess.Location = New System.Drawing.Point(27, 19)
+        Me.btnAddNewProcess.Name = "btnAddNewProcess"
+        Me.btnAddNewProcess.Size = New System.Drawing.Size(75, 22)
+        Me.btnAddNewProcess.TabIndex = 40
+        Me.btnAddNewProcess.Text = "Add New"
+        Me.btnAddNewProcess.UseVisualStyleBackColor = False
         '
         'grpToolManager
         '
@@ -802,27 +846,14 @@ Partial Class frmConvCAM
         '
         'pnlProcess
         '
-        Me.pnlProcess.Controls.Add(Me.picBigPic)
         Me.pnlProcess.Controls.Add(Me.GroupBox8)
         Me.pnlProcess.Controls.Add(Me.GroupBox6)
+        Me.pnlProcess.Controls.Add(Me.picBigPic)
         Me.pnlProcess.Dock = System.Windows.Forms.DockStyle.Fill
         Me.pnlProcess.Location = New System.Drawing.Point(3, 3)
         Me.pnlProcess.Name = "pnlProcess"
         Me.pnlProcess.Size = New System.Drawing.Size(929, 546)
         Me.pnlProcess.TabIndex = 5
-        '
-        'picBigPic
-        '
-        Me.picBigPic.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.picBigPic.BackColor = System.Drawing.Color.White
-        Me.picBigPic.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.picBigPic.Location = New System.Drawing.Point(3, 332)
-        Me.picBigPic.Name = "picBigPic"
-        Me.picBigPic.Size = New System.Drawing.Size(917, 208)
-        Me.picBigPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
-        Me.picBigPic.TabIndex = 12
-        Me.picBigPic.TabStop = False
         '
         'GroupBox8
         '
@@ -832,7 +863,7 @@ Partial Class frmConvCAM
         Me.GroupBox8.Controls.Add(Me.btnFinishAndSave)
         Me.GroupBox8.Controls.Add(Me.lblProcessType)
         Me.GroupBox8.Controls.Add(Me.Label1)
-        Me.GroupBox8.Location = New System.Drawing.Point(6, 3)
+        Me.GroupBox8.Location = New System.Drawing.Point(5, 3)
         Me.GroupBox8.Name = "GroupBox8"
         Me.GroupBox8.Size = New System.Drawing.Size(168, 328)
         Me.GroupBox8.TabIndex = 10
@@ -871,15 +902,17 @@ Partial Class frmConvCAM
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(6, 10)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(78, 13)
+        Me.Label1.Size = New System.Drawing.Size(74, 13)
         Me.Label1.TabIndex = 19
-        Me.Label1.Text = "Tool Path File: "
+        Me.Label1.Text = "Toolpath File: "
         '
         'GroupBox6
         '
         Me.GroupBox6.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
                     Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox6.Controls.Add(Me.lblGcodeToolPathDescription)
+        Me.GroupBox6.Controls.Add(Me.txtGCodeToolPathDescription)
         Me.GroupBox6.Controls.Add(Me.pnlInputs)
         Me.GroupBox6.Location = New System.Drawing.Point(177, 3)
         Me.GroupBox6.Name = "GroupBox6"
@@ -932,21 +965,21 @@ Partial Class frmConvCAM
                     Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.grdSummary.BackgroundColor = System.Drawing.SystemColors.ButtonFace
         Me.grdSummary.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grdSummary.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Parameter, Me.Value, Me.cmdButtons})
+        Me.grdSummary.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Parameter, Me.Value, Me.cmdButtons, Me.ColumnType, Me.Statename})
         Me.grdSummary.Location = New System.Drawing.Point(0, 0)
         Me.grdSummary.Name = "grdSummary"
         Me.grdSummary.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdSummary.Size = New System.Drawing.Size(519, 303)
+        Me.grdSummary.Size = New System.Drawing.Size(517, 302)
         Me.grdSummary.TabIndex = 0
         '
         'Parameter
         '
-        DataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
-        DataGridViewCellStyle13.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        DataGridViewCellStyle13.SelectionBackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        DataGridViewCellStyle13.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle13.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.Parameter.DefaultCellStyle = DataGridViewCellStyle13
+        DataGridViewCellStyle40.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
+        DataGridViewCellStyle40.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        DataGridViewCellStyle40.SelectionBackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        DataGridViewCellStyle40.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle40.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.Parameter.DefaultCellStyle = DataGridViewCellStyle40
         Me.Parameter.FillWeight = 150.0!
         Me.Parameter.HeaderText = "Parameter"
         Me.Parameter.Name = "Parameter"
@@ -957,11 +990,11 @@ Partial Class frmConvCAM
         '
         'Value
         '
-        DataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
-        DataGridViewCellStyle14.SelectionBackColor = System.Drawing.Color.White
-        DataGridViewCellStyle14.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle14.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.Value.DefaultCellStyle = DataGridViewCellStyle14
+        DataGridViewCellStyle41.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
+        DataGridViewCellStyle41.SelectionBackColor = System.Drawing.Color.White
+        DataGridViewCellStyle41.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle41.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.Value.DefaultCellStyle = DataGridViewCellStyle41
         Me.Value.FillWeight = 150.0!
         Me.Value.HeaderText = "Value"
         Me.Value.Name = "Value"
@@ -972,16 +1005,28 @@ Partial Class frmConvCAM
         'cmdButtons
         '
         Me.cmdButtons.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
-        DataGridViewCellStyle15.BackColor = System.Drawing.SystemColors.ButtonFace
-        DataGridViewCellStyle15.ForeColor = System.Drawing.SystemColors.ButtonFace
-        DataGridViewCellStyle15.SelectionBackColor = System.Drawing.SystemColors.ButtonFace
-        DataGridViewCellStyle15.SelectionForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.cmdButtons.DefaultCellStyle = DataGridViewCellStyle15
+        DataGridViewCellStyle42.BackColor = System.Drawing.SystemColors.ButtonFace
+        DataGridViewCellStyle42.ForeColor = System.Drawing.SystemColors.ButtonFace
+        DataGridViewCellStyle42.SelectionBackColor = System.Drawing.SystemColors.ButtonFace
+        DataGridViewCellStyle42.SelectionForeColor = System.Drawing.SystemColors.ButtonFace
+        Me.cmdButtons.DefaultCellStyle = DataGridViewCellStyle42
         Me.cmdButtons.FillWeight = 120.0!
         Me.cmdButtons.HeaderText = "Help"
         Me.cmdButtons.Name = "cmdButtons"
         Me.cmdButtons.Resizable = System.Windows.Forms.DataGridViewTriState.[False]
         Me.cmdButtons.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable
+        '
+        'ColumnType
+        '
+        Me.ColumnType.HeaderText = "Type"
+        Me.ColumnType.Name = "ColumnType"
+        Me.ColumnType.Visible = False
+        '
+        'Statename
+        '
+        Me.Statename.HeaderText = "State Name"
+        Me.Statename.Name = "Statename"
+        Me.Statename.Visible = False
         '
         'grpTitle
         '
@@ -1160,14 +1205,27 @@ Partial Class frmConvCAM
         Me.btnBack.Text = "<<"
         Me.btnBack.UseVisualStyleBackColor = True
         '
+        'picBigPic
+        '
+        Me.picBigPic.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.picBigPic.BackColor = System.Drawing.Color.White
+        Me.picBigPic.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.picBigPic.Location = New System.Drawing.Point(3, 332)
+        Me.picBigPic.Name = "picBigPic"
+        Me.picBigPic.Size = New System.Drawing.Size(917, 208)
+        Me.picBigPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.picBigPic.TabIndex = 12
+        Me.picBigPic.TabStop = False
+        '
         'tabMain
         '
         Me.tabMain.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
                     Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.tabMain.Controls.Add(Me.Part)
         Me.tabMain.Controls.Add(Me.Report1)
         Me.tabMain.Controls.Add(Me.Log)
-        Me.tabMain.Controls.Add(Me.Part)
         Me.tabMain.Location = New System.Drawing.Point(0, 24)
         Me.tabMain.Name = "tabMain"
         Me.tabMain.RightToLeft = System.Windows.Forms.RightToLeft.No
@@ -1175,45 +1233,24 @@ Partial Class frmConvCAM
         Me.tabMain.Size = New System.Drawing.Size(943, 578)
         Me.tabMain.TabIndex = 1
         '
-        'selCol
+        'txtGCodeToolPathDescription
         '
-        DataGridViewCellStyle16.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle16.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle16.ForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle16.SelectionBackColor = System.Drawing.Color.White
-        DataGridViewCellStyle16.SelectionForeColor = System.Drawing.Color.Black
-        Me.selCol.DefaultCellStyle = DataGridViewCellStyle16
-        Me.selCol.Frozen = True
-        Me.selCol.HeaderText = ""
-        Me.selCol.Name = "selCol"
-        Me.selCol.ReadOnly = True
-        Me.selCol.Resizable = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.selCol.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable
-        Me.selCol.Width = 30
+        Me.txtGCodeToolPathDescription.Location = New System.Drawing.Point(548, 28)
+        Me.txtGCodeToolPathDescription.Name = "txtGCodeToolPathDescription"
+        Me.txtGCodeToolPathDescription.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical
+        Me.txtGCodeToolPathDescription.Size = New System.Drawing.Size(184, 96)
+        Me.txtGCodeToolPathDescription.TabIndex = 27
+        Me.txtGCodeToolPathDescription.Text = ""
         '
-        'ProcessName
+        'lblGcodeToolPathDescription
         '
-        Me.ProcessName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None
-        DataGridViewCellStyle17.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle17.ForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle17.SelectionBackColor = System.Drawing.Color.White
-        DataGridViewCellStyle17.SelectionForeColor = System.Drawing.Color.Black
-        Me.ProcessName.DefaultCellStyle = DataGridViewCellStyle17
-        Me.ProcessName.Frozen = True
-        Me.ProcessName.HeaderText = "Tool Path Template Name"
-        Me.ProcessName.Name = "ProcessName"
-        Me.ProcessName.ReadOnly = True
-        Me.ProcessName.Width = 160
-        '
-        'GCode
-        '
-        Me.GCode.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
-        DataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle18.Font = New System.Drawing.Font("Wingdings 2", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
-        Me.GCode.DefaultCellStyle = DataGridViewCellStyle18
-        Me.GCode.HeaderText = "G Code"
-        Me.GCode.Name = "GCode"
-        Me.GCode.ReadOnly = True
+        Me.lblGcodeToolPathDescription.AutoSize = True
+        Me.lblGcodeToolPathDescription.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblGcodeToolPathDescription.Location = New System.Drawing.Point(553, 10)
+        Me.lblGcodeToolPathDescription.Name = "lblGcodeToolPathDescription"
+        Me.lblGcodeToolPathDescription.Size = New System.Drawing.Size(158, 13)
+        Me.lblGcodeToolPathDescription.TabIndex = 28
+        Me.lblGcodeToolPathDescription.Text = "G Code Toolpath Comment"
         '
         'frmConvCAM
         '
@@ -1233,18 +1270,18 @@ Partial Class frmConvCAM
         Me.Report1.ResumeLayout(False)
         Me.Part.ResumeLayout(False)
         Me.pnlPart.ResumeLayout(False)
-        Me.GroupBox1.ResumeLayout(False)
-        CType(Me.grdProcessList, System.ComponentModel.ISupportInitialize).EndInit()
         Me.grpPartProcesses.ResumeLayout(False)
         Me.Report.ResumeLayout(False)
         Me.Report.PerformLayout()
+        Me.GroupBox1.ResumeLayout(False)
+        CType(Me.grdProcessList, System.ComponentModel.ISupportInitialize).EndInit()
         Me.grpToolManager.ResumeLayout(False)
         Me.grpToolManager.PerformLayout()
         Me.pnlProcess.ResumeLayout(False)
-        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox8.ResumeLayout(False)
         Me.GroupBox8.PerformLayout()
         Me.GroupBox6.ResumeLayout(False)
+        Me.GroupBox6.PerformLayout()
         Me.pnlInputs.ResumeLayout(False)
         Me.pnlInputs.PerformLayout()
         CType(Me.grdSummary, System.ComponentModel.ISupportInitialize).EndInit()
@@ -1253,6 +1290,7 @@ Partial Class frmConvCAM
         Me.Panel5.ResumeLayout(False)
         CType(Me.picSmallPic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel4.ResumeLayout(False)
+        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.tabMain.ResumeLayout(False)
         Me.ResumeLayout(False)
         Me.PerformLayout()
@@ -1366,13 +1404,17 @@ Partial Class frmConvCAM
     Friend WithEvents txtToolStations As System.Windows.Forms.RichTextBox
     Friend WithEvents btnSaveGCode As System.Windows.Forms.Button
     Friend WithEvents btnOpenGCode As System.Windows.Forms.Button
-    Friend WithEvents Parameter As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents Value As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents cmdButtons As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents btnPrintReport As System.Windows.Forms.Button
     Friend WithEvents btnPrintPreview As System.Windows.Forms.Button
     Friend WithEvents selCol As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents ProcessName As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents GCode As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents Parameter As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents Value As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents cmdButtons As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents ColumnType As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents Statename As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents lblGcodeToolPathDescription As System.Windows.Forms.Label
+    Friend WithEvents txtGCodeToolPathDescription As System.Windows.Forms.RichTextBox
 
 End Class

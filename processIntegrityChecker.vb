@@ -58,7 +58,7 @@
 
         Loop
 
-        ProcessIntegrityCheck = MakeHeader("TOOL PATH NAME: " & x.extract(processInfo, "ProcessName"), processFailCount, processWarnCount) & stateCheck
+        ProcessIntegrityCheck = MakeHeader("TOOLPATH NAME: " & x.extract(processInfo, "ProcessName"), processFailCount, processWarnCount) & stateCheck
 
     End Function
     Private Function MakeHeader(ByVal Title As String, ByVal fails As Integer, ByVal warns As String) As String
@@ -111,7 +111,7 @@
 
         TouchOffMethodCheck = "FAIL: Touch-off Method mis-match:"
         appendString(TouchOffMethodCheck, "  Preferred TOM: " & preferenceTouchOffMethod, vbLf)
-        appendString(TouchOffMethodCheck, "  Tool Path TOM:   " & processTouchOffMethod, vbLf)
+        appendString(TouchOffMethodCheck, "  Toolpath TOM:   " & processTouchOffMethod, vbLf)
         processFailCount = processFailCount + 1
 
     End Function

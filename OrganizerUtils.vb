@@ -86,6 +86,7 @@
         Next
 
         Dim sTemplate As String = x.extract(toolConfig, "DISPLAY DISPVARTEMPLATEONLY")
+        If sTemplate = "" Then sTemplate = x.extract(toolConfig, "DISPLAY DISPVARTEMPLATE")
         MakeToolDescr = MakeDescription(sTemplate, ht)
 
     End Function

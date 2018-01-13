@@ -234,6 +234,40 @@
         getToolList = toolList.getList
 
     End Function
+    Public Function makeToolList(ByVal processList As myList) As String
+
+        Dim processData As String
+        Dim templateName As String = ""
+        Dim x As New myXmlUtils
+        Dim states() As String
+        Dim stateValue As String
+        Dim toolList As String = ""
+
+        Dim f As New fileManager
+
+        For i = 0 To processList.length(DL) - 1
+
+            processData = f.fileRead(gPath.addSlash(gPath.partPath) & "temp part\" & processList.getItem(i, DL) & ".txt")
+            templateName = x.extract(processData, "TEMPLATE")
+            p.readProcessDefinitionFile(templateName)
+
+            states = p.getStateList.Split(DL)
+
+            For j = 0 To states.Count - 1
+
+
+                If p.stateInfoDetail("STTYPE", states(j)).ToLower = "tool" Then
+                    stateValue = x.extract(processData, states(j))
+                    If stateValue <> "" Then
+                        toolList = appendString(toolList, stateValue, DL)
+                    End If
+                End If
+            Next
+        Next
+
+        Return toolList
+
+    End Function
     Public Sub loadToolVariables()
 
         Dim toollist As String, f As New fileManager, x As New myXmlUtils, t As New myList, s As String
@@ -290,6 +324,7 @@
         partString = appendString(partString, x.add(DesignerName, "DESIGNERNAME"), vbCrLf)
         partString = appendString(partString, x.add(Date.Today().ToString, "DATE"), vbCrLf)
         partString = appendString(partString, vbCrLf & x.add(vbCrLf & Descriptions & vbCrLf, "DESCRIPTION"), vbCrLf)
+        partString = appendString(partString, vbCrLf & x.add(vbCrLf & GCodePartComment & vbCrLf, "GCODEPARTCOMMENT"), vbCrLf)
         partString = appendString(partString, x.add(stateVars.getVar("TOUCHOFFMETHOD"), "TOUCHOFFMETHOD"), vbCrLf & vbCrLf)
         partString = appendString(partString, x.add(vbCrLf & blankMy & vbCrLf, "BLANKINFO"), vbCrLf & vbCrLf)
         partString = appendString(partString, x.add(getProcessList, "PROCESSLIST"), vbCrLf & vbCrLf)
@@ -364,24 +399,25 @@
         If startUpFlag = 0 Then Exit Function
 
         s.setList(getProcessList)
-        toolList.setList(getToolList)
+        ''toolList.setList(getToolList)
+        toolList.setList(makeToolList(s))
 
         t = appendString(t, MakeReportHeader(), vbLf)
         t = appendString(t, MakeReportBlankInfo(), vbLf)
         t = appendString(t, tsMan.ToolReport(toolList.getList), vbLf)
 
         t = appendString(t, RLM & RDL, vbLf)
-        t = appendString(t, CenterInReport("TOOL PATH SEQUENCE"), vbLf)
+        t = appendString(t, CenterInReport("TOOLPATH SEQUENCE"), vbLf)
         t = appendString(t, RLM & RDL, vbLf)
-        t = appendString(t, RLM & "  Total Number of Tool Paths: " & s.length(DL).ToString, vbLf)
+        t = appendString(t, RLM & "  Total Number of Toolpaths: " & s.length(DL).ToString, vbLf)
 
         For i = 0 To s.length(DL) - 1
 
             u = f.fileRead(gPath.addSlash(gPath.partPath) & "temp part\" & s.getItem(i, DL) & ".txt")
 
             t = appendString(t, RLM & RSL, vbLf)
-            t = appendString(t, RLM & "  Tool Path Name: " & s.getItem(i, DL), vbLf)
-            t = appendString(t, RLM & "  Tool Path Type: " & x.extract(u, "TEMPLATE"), vbLf)
+            t = appendString(t, RLM & "  Toolpath Name: " & s.getItem(i, DL), vbLf)
+            t = appendString(t, RLM & "  Toolpath Type: " & x.extract(u, "TEMPLATE"), vbLf)
             t = appendString(t, RLM & "  Tool Description:     " & toolList.getItem(i, DL), vbLf)
 
         Next

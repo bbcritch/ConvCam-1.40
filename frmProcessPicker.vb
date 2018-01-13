@@ -36,7 +36,7 @@
             sTempDesignFile = x.extract(sTempDesignFile, txtProcess.Text)
             Me.Close()
         Else
-            MsgBox("You must select a valid Tool Path", MsgBoxStyle.OkOnly)
+            MsgBox("You must select a valid Toolpath", MsgBoxStyle.OkOnly)
         End If
 
     End Sub

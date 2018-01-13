@@ -42,9 +42,9 @@ Public Class frmConvCAM
     Private Const TITLECOLUMN = 0
     Public Const VARCOLUMN = 1
     Private Const HELPCOLUMN = 2
-    Private Const SPACERCOL = 3
-    Public Const COLTYPE = 4
-    Public Const STATENAMECOL = 5
+    ''Private Const SPACERCOL = 3
+    Public Const COLTYPE = 3
+    Public Const STATENAMECOL = 4
 
     Private bSuppressFlag As Boolean = False
     Private bSuppressDoublePressFlag As Boolean = False
@@ -456,6 +456,8 @@ Public Class frmConvCAM
         Dim s As String, x As New myXmlUtils, cLine As String, ary() As String, c As New calc
         Dim tList As New myList, i As Integer
 
+        stateVars.setVar("GCODETOOLPATHDESCRIPTION", txtGCodeToolPathDescription.Text)
+
         s = p.stateInfoDetail("CALC")
         If s = "" Then Exit Sub
 
@@ -570,6 +572,8 @@ Public Class frmConvCAM
 
         lblProcessType.Text = f.fileNameOnly(fname)
         loadProcessTemplate()
+
+        txtGCodeToolPathDescription.Text = stateVars.getVar("GCODETOOLPATHDESCRIPTION")
 
     End Sub
 
@@ -918,6 +922,7 @@ Public Class frmConvCAM
                     PartFileName = ""
                     Descriptions = ""
                     DesignerName = ""
+                    GCodePartComment = ""
 
                     frmPartInfo.ShowDialog()
                     If PartFileName = "" Then Exit Sub
@@ -933,7 +938,7 @@ Public Class frmConvCAM
                     txtReport.Text = dh.makeDesignReport
 
                 End If
-            Case "GCode"
+            Case "G Code"
                 txtGcodeBox.Text = ""
         End Select
 
@@ -942,7 +947,8 @@ Public Class frmConvCAM
         Select Case tabName
             Case "Part"
                 readPartFile()
-            Case "GCode"
+                ''ValidateAllInputs()
+            Case "G Code"
                 readGCode()
         End Select
     End Sub
@@ -1030,6 +1036,8 @@ Public Class frmConvCAM
 
                     updateDesignSequence()
 
+                    buildGCODE()
+
                 End If
 
             End If
@@ -1043,7 +1051,8 @@ Public Class frmConvCAM
 
         PartFileName = x.extract(s, "PARTNAME")
         DesignerName = x.extract(s, "DESIGNERNAME")
-        Descriptions = x.extract(s, "DESCRIPTION")
+        Descriptions = stripBlankLines(x.extract(s, "DESCRIPTION"))
+        GCodePartComment = stripBlankLines(x.extract(s, "GCODEPARTCOMMENT"))
 
     End Sub
     Private Sub UpdateBlankInfo()
@@ -1149,7 +1158,7 @@ Public Class frmConvCAM
 
             dlgSave.Reset()
             dlgSave.InitialDirectory = gPath.userGcodePath
-            dlgSave.Filter = "GCODE FILE (*.txt)|*.txt"
+            dlgSave.Filter = "G CODE FILE (*.txt)|*.txt"
 
             If dlgSave.ShowDialog() <> Windows.Forms.DialogResult.Cancel Then
                 f.fileWrite(dlgSave.FileName, txtGcodeBox.Text.Replace(vbLf, vbCrLf))
@@ -1157,7 +1166,7 @@ Public Class frmConvCAM
                 ''               GCODEDIR = System.IO.Path.GetDirectoryName(dlgSave.FileName)
             End If
         Else
-            MsgBox("There is no G CODE to save..", MsgBoxStyle.OkOnly, "No GCODE")
+            MsgBox("There is no G CODE to save..", MsgBoxStyle.OkOnly, "No G CODE")
         End If
 
     End Sub
@@ -1166,6 +1175,10 @@ Public Class frmConvCAM
         Dim gC As New gCodeBuilder
 
         txtGcodeBox.Text = ""
+
+        ' makeGCodeAll is called twice, to clean-up tool mis-info,
+        ' do to chicken and egg sequencing
+        gC.makeGCodeAll()
         txtGcodeBox.Text = gC.makeGCodeAll
 
     End Sub
@@ -1264,7 +1277,7 @@ Public Class frmConvCAM
 
         pnlProcess.Visible = True
         pnlPart.Visible = False
-        PartDisp = "Tool Path"
+        PartDisp = "Toolpath"
         DisplayUnitsToolStripMenuItem.Enabled = False
 
     End Sub
@@ -1454,8 +1467,8 @@ Public Class frmConvCAM
                 If PartDisp = "Part" Then
                     txtReport.Text = dh.makeDesignReport()
                 End If
-            Case "GCode"
-                buildGCODE()
+                ''Case "G Code"
+                ''    buildGCODE()
             Case "Log"
             Case "Web Site"
         End Select
@@ -1496,7 +1509,7 @@ Public Class frmConvCAM
                 SaveGCodeToolStripMenuItem.Enabled = True
                 ''StepbyStepToolStripMenuItem.Enabled = True
             Case "process"
-            Case "gcode"
+            Case "g code"
                 SaveGCodeToolStripMenuItem.Enabled = True
             Case "website"
             Case "log"
@@ -1608,7 +1621,7 @@ Public Class frmConvCAM
 
         i = getSelectedProcessRow()
         If i <> -1 Then   '   TBD if list is not empty
-            If MsgBox("Are you sure you want to remove this Tool Path?", MsgBoxStyle.OkCancel, "Remove Tool Path") = MsgBoxResult.Cancel Then Exit Sub
+            If MsgBox("Are you sure you want to remove this Toolpath?", MsgBoxStyle.OkCancel, "Remove Toolpath") = MsgBoxResult.Cancel Then Exit Sub
             dh.removeProcess(i + 1)
             updateDesignSequence()
             setProcessSelectCursor(i)
@@ -1715,7 +1728,7 @@ Public Class frmConvCAM
         If ValidateAllInputs() = "PASS" Then
             CloseProcess()
             txtReport.Text = dh.makeDesignReport
-
+            buildGCODE()
         Else
             frmErrorReport.ShowDialog()
         End If
@@ -1724,7 +1737,7 @@ Public Class frmConvCAM
 
     Private Sub btnCancelProcessEdit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCancelProcessEdit.Click
 
-        If MsgBox("If you cancel, this Tool Path will be removed. Are you sure you want to cancel?", MsgBoxStyle.YesNo, "Tool Path Cancel") = MsgBoxResult.Yes Then
+        If MsgBox("If you cancel, this Toolpath will be removed. Are you sure you want to cancel?", MsgBoxStyle.YesNo, "Toolpath Cancel") = MsgBoxResult.Yes Then
             removeProcess(True)
             showPart()
             SetFileMenu("part")
@@ -1859,9 +1872,9 @@ Public Class frmConvCAM
 
         tabName = tabMain.SelectedTab.Name.ToString
 
-        If tabName = "GCode" Then
-            buildGCODE()
-        End If
+        ''If tabName = "G Code" Then
+        ''    buildGCODE()
+        ''End If
 
         SetFileMenu(tabName)
 
@@ -1927,11 +1940,11 @@ Public Class frmConvCAM
     End Sub
     Private Sub GCODEDebugOFFToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles GCODEDebugOFFToolStripMenuItem.Click
 
-        If GCODEDebugOFFToolStripMenuItem.Text = "GCODE Debug: OFF" Then
-            GCODEDebugOFFToolStripMenuItem.Text = "GCODE Debug: ON"
+        If GCODEDebugOFFToolStripMenuItem.Text = "G CODE Debug: OFF" Then
+            GCODEDebugOFFToolStripMenuItem.Text = "G CODE Debug: ON"
             DEBUGFLAG = 1
         Else
-            GCODEDebugOFFToolStripMenuItem.Text = "GCODE Debug: OFF"
+            GCODEDebugOFFToolStripMenuItem.Text = "G CODE Debug: OFF"
             DEBUGFLAG = 0
         End If
 
@@ -1998,6 +2011,7 @@ Public Class frmConvCAM
     End Sub
     Private Sub NewToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles NewToolStripMenuItem.Click
         newHandler()
+        txtGcodeBox.Text = ""
     End Sub
     Private Sub SaveToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles SaveToolStripMenuItem.Click
         savePartFile1()
@@ -2030,17 +2044,17 @@ Public Class frmConvCAM
     End Sub
     Private Sub ToolStripMenuItem1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ToolStripMenuItem1.Click
 
-        If ToolStripMenuItem1.Text = "GCODE Training: On" Then
-            ToolStripMenuItem1.Text = "GCODE Training: Off"
+        If ToolStripMenuItem1.Text = "G CODE Training: On" Then
+            ToolStripMenuItem1.Text = "G CODE Training: Off"
             TRAINING = False
         Else
-            ToolStripMenuItem1.Text = "GCODE Training: On"
+            ToolStripMenuItem1.Text = "G CODE Training: On"
             TRAINING = True
         End If
 
         writePreferences()
 
-        If tabName = "GCode" Then buildGCODE()
+        ''If tabName = "G Code" Then buildGCODE()
         UpdateStatusBar()
 
     End Sub
@@ -2098,6 +2112,7 @@ Public Class frmConvCAM
     Private Sub PopulateTable()
 
         Dim sStateName As String
+        Dim tmpStateName As String = p.getCurrentState
 
         For i = 0 To grdSummary.RowCount - 1
 
@@ -2107,6 +2122,9 @@ Public Class frmConvCAM
             populateRow(sStateName, i)
 
         Next
+
+        p.setCurrentState(tmpStateName)
+
     End Sub
     Private Sub AboutToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AboutToolStripMenuItem.Click
         frmAbout.ShowDialog()

@@ -118,7 +118,7 @@ Partial Class frmStateMaker
         Me.btnProcess.Name = "btnProcess"
         Me.btnProcess.Size = New System.Drawing.Size(78, 21)
         Me.btnProcess.TabIndex = 3
-        Me.btnProcess.Text = "New Tool Path"
+        Me.btnProcess.Text = "New Toolpath"
         Me.btnProcess.UseVisualStyleBackColor = True
         '
         'btnState
@@ -298,7 +298,7 @@ Partial Class frmStateMaker
         Me.btnGcode.Name = "btnGcode"
         Me.btnGcode.Size = New System.Drawing.Size(217, 23)
         Me.btnGcode.TabIndex = 30
-        Me.btnGcode.Text = "Create Meta GCODE"
+        Me.btnGcode.Text = "Create Meta G CODE"
         Me.btnGcode.UseVisualStyleBackColor = True
         '
         'txtGcode
@@ -429,7 +429,7 @@ Partial Class frmStateMaker
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(101, 13)
         Me.Label5.TabIndex = 13
-        Me.Label5.Text = "Tool Path Description"
+        Me.Label5.Text = "Toolpath Description"
         '
         'Label7
         '
@@ -666,7 +666,7 @@ Partial Class frmStateMaker
         Me.grpParentProcess.Size = New System.Drawing.Size(220, 231)
         Me.grpParentProcess.TabIndex = 63
         Me.grpParentProcess.TabStop = False
-        Me.grpParentProcess.Text = "Parent Tool Path Variables"
+        Me.grpParentProcess.Text = "Parent Toolpath Variables"
         '
         'chkIsParent
         '
