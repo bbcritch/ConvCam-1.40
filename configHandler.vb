@@ -133,9 +133,12 @@
     End Sub
     Public Sub loadToolVals()
         Dim t As String, x As New myXmlUtils, delimvar As String
+
         t = x.extract(toolConfig, "DELIMVAR")
         delimvar = x.extract(toolMy, t)
+
         addVarValsToState(x.extract(toolAll, delimvar))
+
     End Sub
     Public Sub saveToolVals()
 

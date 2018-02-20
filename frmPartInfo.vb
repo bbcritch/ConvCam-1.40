@@ -41,6 +41,8 @@
     End Function
     Private Sub frmPartInfo_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
+        If gPath.userPartPath = "" Then gPath.makeUserPartPath(gPath.partPath)
+
         abortSave = False
         txtDesigner.Text = DesignerName
         txtPartName.Text = PartFileName
@@ -64,7 +66,6 @@
 
         If dlgFolder.SelectedPath <> "" Then
             gPath.makeUserPartPath(dlgFolder.SelectedPath)
-            ''f.fileWrite(gPath.Configs & "\partPath.txt", x.add(dlgFolder.SelectedPath, "PATH"))
         End If
 
     End Sub

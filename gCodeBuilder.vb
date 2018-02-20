@@ -27,38 +27,56 @@
         getProgramVarialbesLists()
 
         ' Sets number of process
-        pQty = gProcessName.length(DL)
+        ''pQty = gProcessName.length(DL)
         makeGCodeAll = ""
 
-        If pQty = 0 Then Exit Function
+        ''If pQty = 0 Then Exit Function
 
-        Dim selFlag As Boolean = False
+        ''Dim selFlag As Boolean = False
 
-        For i = 0 To pQty - 1
-            If getCell(frmConvCAM.grdProcessList, i, 2) <> "" Then selFlag = True
-        Next
+        ''For i = 0 To pQty - 1
+        ''    If getCell(frmConvCAM.grdProcessList, i, 2) <> "" Then selFlag = True
+        ''Next
 
-
+        Dim s As New myList
+        Call s.setList(dh.getCheckedProcessList)
         ' Step through each process
 
-        For i = 0 To pQty - 1
-            If getCell(frmConvCAM.grdProcessList, i, 2) <> "" Or Not selFlag Then
-                ' Read process file in gProcessName list, load in their program variables
-                readProcessFile(gProcessName.getItem(i, DL))
-                updateProgramVariables(i)
+        pQty = s.length(DL) - 1
 
-                ' Set first and last processes
-                stateVars.setVar("FirstProcess", gProcessName.getItem(0, DL))
-                stateVars.setVar("LastProcess", gProcessName.getItem(pQty - 1, DL))
+        For i = 0 To s.length(DL) - 1
+            ' Read process file in gProcessName list, load in their program variables
+            readProcessFile(s.getItem(i, DL))
+            updateProgramVariables(i)
 
-                stateVars.setVar("PreviousBedAngle", PrevBedAngle)
+            ' Set first and last processes
+            stateVars.setVar("FirstProcess", s.getItem(0, DL))
+            stateVars.setVar("LastProcess", s.getItem(pQty - 1, DL))
+            stateVars.setVar("PreviousBedAngle", PrevBedAngle)
 
-
-                ' Build GCODE for each process and append them
-                t = t & vbLf & makeGcode(gProcessName.getItem(i, DL))
-                PrevBedAngle = stateVars.getVar("VBedAngle")
-            End If
+            ' Build GCODE for each process and append them
+            t = t & vbLf & makeGcode(gProcessName.getItem(i, DL))
+            PrevBedAngle = stateVars.getVar("VBedAngle")
         Next
+
+        ''For i = 0 To pQty - 1
+        ''    If getCell(frmConvCAM.grdProcessList, i, 2) <> "" Or Not selFlag Then
+        ''        ' Read process file in gProcessName list, load in their program variables
+        ''        readProcessFile(gProcessName.getItem(i, DL))
+        ''        updateProgramVariables(i)
+
+        ''        ' Set first and last processes
+        ''        stateVars.setVar("FirstProcess", gProcessName.getItem(0, DL))
+        ''        stateVars.setVar("LastProcess", gProcessName.getItem(pQty - 1, DL))
+
+        ''        stateVars.setVar("PreviousBedAngle", PrevBedAngle)
+
+
+        ''        ' Build GCODE for each process and append them
+        ''        t = t & vbLf & makeGcode(gProcessName.getItem(i, DL))
+        ''        PrevBedAngle = stateVars.getVar("VBedAngle")
+        ''    End If
+        ''Next
 
         ' If low verbosity, remove all comments
 
@@ -102,38 +120,43 @@
         ' Add gcodepartcomment if there is one.
         If GCodePartComment.Length > 0 Then
             t = GCodePartComment.Replace(vbCrLf, vbLf).Split(vbLf)
-            h = h & vbLf & "()" & vbLf
-            h = h & "(PART DESCRIPTION:)" & vbLf
+            h = h & vbLf
+            h = h & "(Part Description:)" & vbLf
             For i = 0 To t.Count - 1
                 If t(i).Length > 0 Then
-                    h = h & "(" & t(i) & ")" & vbLf
+                    h = h & "(  " & t(i) & ")" & vbLf
                 End If
             Next
-            h = h & "()"
         End If
 
 
         Dim toolList As New myList
-        Dim s As New myList
+        ''       Dim s As New myList
 
-        s.setList(dh.getProcessList)
-        toolList.setList(tsMan.UniqueToolList(dh.makeToolList(s)))
+        ''        s.setList(dh.getProcessList)
+        ''       s.setList(dh.getCheckedProcessList)
+        toolList.setList(tsMan.UniqueToolList(dh.makeToolList()))
         ''toolList.setList(dh.makeToolList(s))
 
         For i = 0 To toolList.length(DL) - 1
-            h = h & vbCrLf & "(TOOL " & (i + 1).ToString & ": " & MakeToolDescr(toolList.getItem(i, DL)) & ")"
+            h = h & "(TOOL " & (i + 1).ToString & ": " & MakeToolDescr(toolList.getItem(i, DL)) & ")" & vbLf
         Next
 
-        h = h & vbCrLf & "()"
-        h = h & vbCrLf & "G40 G49 G50 G80 G90"
+        h = h & "G40 G49 G50 G80 G90"
 
         makeGCodeHeader = h
     End Function
     Private Sub getProgramVarialbesLists()
-        gToolList.setList(dh.getToolList)
+
+        ''Dim processList As New myList
+        ''processList.setList(dh.getCheckedProcessList)
+
+        ''        gToolList.setList(dh.getToolList)
+        gToolList.setList(dh.makeToolList())
         gToolStation.setList(dh.getToolStationList)
         gBedAngle.setList(dh.getBedAngleList)
-        gProcessName.setList(dh.getProcessList)
+        ''        gProcessName.setList(dh.getProcessList)
+        gProcessName.setList(dh.getCheckedProcessList)
     End Sub
     Private Sub updateProgramVariables(ByVal i As Integer)
 
@@ -186,7 +209,6 @@
 
         makeGcode = "()" & vbLf
         makeGcode = makeGcode & "(TOOLPATH: " & processName & ")" & vbLf
-        makeGcode = makeGcode & "()" & vbLf
 
         Dim processDescription As String = stateVars.getVar("GCODETOOLPATHDESCRIPTION")
         processDescription = stripBlankLines(processDescription)
@@ -196,10 +218,9 @@
             t = processDescription.Split(vbLf)
             For i = 0 To t.Count - 1
                 If t(i).Length > 0 Then
-                    makeGcode = makeGcode & "(" & t(i) & ")" & vbLf
+                    makeGcode = makeGcode & "(  " & t(i) & ")" & vbLf
                 End If
             Next
-            makeGcode = makeGcode & "()" & vbLf
         End If
         makeGcode = makeGcode & finalGcode & vbLf
 

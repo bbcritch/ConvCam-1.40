@@ -597,18 +597,22 @@ Public Class frmStateMaker
     End Sub
     Private Sub btnLgPic_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnLgPic.Click
 
-        Dim f As New fileManager, od As New OpenFileDialog, fname As String
+        glbImageList = txtLgPic.Text
+        frmImageListMaker.ShowDialog()
+        txtLgPic.Text = glbImageList
 
-        od.Reset()
-        od.Filter = "Picture Files (*.bmp)|*.bmp|JPEG (jpg.*)|jpg.*"
-        od.FileName = ""
-        od.InitialDirectory = gPath.addSlash(gPath.picturesPath)
-        od.ShowDialog()
+        ''Dim f As New fileManager, od As New OpenFileDialog, fname As String
 
-        If DialogResult <> Windows.Forms.DialogResult.Cancel Then
-            fname = f.fileNameOnly(od.FileName)
-            txtLgPic.Text = fname
-        End If
+        ''od.Reset()
+        ''od.Filter = "Picture Files (*.bmp)|*.bmp|JPEG (jpg.*)|jpg.*"
+        ''od.FileName = ""
+        ''od.InitialDirectory = gPath.addSlash(gPath.picturesPath)
+        ''od.ShowDialog()
+
+        ''If DialogResult <> Windows.Forms.DialogResult.Cancel Then
+        ''    fname = f.fileNameOnly(od.FileName)
+        ''    txtLgPic.Text = fname
+        ''End If
 
     End Sub
     Private Sub btnPreviousState_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnPreviousState.Click

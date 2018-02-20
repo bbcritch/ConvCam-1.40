@@ -101,6 +101,12 @@
     <Compile Include="frmErrorReport.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmImageListMaker.Designer.vb">
+      <DependentUpon>frmImageListMaker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmImageListMaker.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmLicenseAgreement.Designer.vb">
       <DependentUpon>frmLicenseAgreement.vb</DependentUpon>
     </Compile>
@@ -251,6 +257,9 @@
   <ItemGroup>
     <EmbeddedResource Include="frmErrorReport.resx">
       <DependentUpon>frmErrorReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImageListMaker.resx">
+      <DependentUpon>frmImageListMaker.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLicenseAgreement.resx">
       <DependentUpon>frmLicenseAgreement.vb</DependentUpon>

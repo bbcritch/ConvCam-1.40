@@ -97,7 +97,9 @@
 
         Dim tlist As New myList, t As String = ""
         Dim ts As New ToolStation
-        tlist.setList(getToolList)
+        ''        tlist.setList(getToolList)
+
+        tlist.setList(makeToolList())
 
         For i = 0 To tlist.length(DL) - 1
             t = appendString(t, GetToolStation(tlist.getItem(i, DL)), DL)
@@ -123,7 +125,8 @@
         Dim f As New fileManager, s As String, t As New myList, bedAngleList As New myList
         Dim x As New myXmlUtils, t1 As String
 
-        t.setList(getProcessFileList)
+        '       t.setList(getProcessFileList)
+        t.setList(getCheckedProcessFileNameList)
 
         For i = 0 To t.length(DL) - 1
 
@@ -201,7 +204,8 @@
         Dim strToolList
         Dim toolAry() As String
 
-        t.setList(getProcessFileList)
+        ''        t.setList(getProcessFileList)
+        t.setList(getCheckedProcessFileNameList)
 
         For i = 0 To t.length(DL) - 1
 
@@ -234,7 +238,7 @@
         getToolList = toolList.getList
 
     End Function
-    Public Function makeToolList(ByVal processList As myList) As String
+    Public Function makeToolList() As String
 
         Dim processData As String
         Dim templateName As String = ""
@@ -244,6 +248,9 @@
         Dim toolList As String = ""
 
         Dim f As New fileManager
+
+        Dim processList As New myList
+        processList.setList(getCheckedProcessList)
 
         For i = 0 To processList.length(DL) - 1
 
@@ -398,9 +405,12 @@
         makeDesignReport = ""
         If startUpFlag = 0 Then Exit Function
 
-        s.setList(getProcessList)
-        ''toolList.setList(getToolList)
-        toolList.setList(makeToolList(s))
+        Dim processList As String = getCheckedProcessList()
+
+        ''        s.setList(getProcessList)
+        ''        toolList.setList(getToolList)
+        s.setList(getCheckedProcessList)
+        toolList.setList(makeToolList)
 
         t = appendString(t, MakeReportHeader(), vbLf)
         t = appendString(t, MakeReportBlankInfo(), vbLf)
@@ -495,12 +505,72 @@
         MakeReportBlankInfo = t
 
     End Function
-    Private Function getPriorTool(ByVal newProcessName As String, ByVal newTool As String) As String
+    Public Function getCheckedProcessList(Optional ByVal getAll As Boolean = False, Optional ByVal asIndices As Boolean = False) As String
 
-        If newTool <> "" Then Return ""
-        Dim q As Integer = Val(designString.getVar("QTY"))
+        ' Returns the list of Toolpath names as listed in the Toolpath grid.
+        Dim checkedProcessList As New myList
+        Dim checkedQty As Integer = 0
 
+        Dim allProcessList As New myList
+        Dim allQty As Integer = 0
+
+        Dim processName As String
+
+        ' Loop through the process list grid in frmConvCam.
+        ' Make two lists: All, and those that are checked
+        For i = 0 To 100000
+            processName = getCell(frmConvCAM.grdProcessList, i, 1)
+            Select Case processName
+                Case ""
+                    Exit For
+                Case Else
+                    If asIndices Then
+                        ' Returns the index of the toolpath name
+                        allProcessList.add(i.ToString, DL)
+                        If getCell(frmConvCAM.grdProcessList, i, 2) <> "" Then
+                            checkedProcessList.add(i.ToString, DL)
+                        End If
+                    Else
+                        ' Returns the actual toolpath name
+                        allProcessList.add(processName, DL)
+                        If getCell(frmConvCAM.grdProcessList, i, 2) <> "" Then
+                            checkedProcessList.add(processName, DL)
+                        End If
+                    End If
+
+            End Select
+        Next
+
+        ' If the checked list is empty or the getAll flag is true, return ALL the processes
+        ' Otherwise, return only the checked ones.
+        Select Case checkedProcessList.length(DL)
+            Case 0
+                Return allProcessList.getList
+            Case Else
+                If getAll Then
+                    Return allProcessList.getList
+                Else
+                    Return checkedProcessList.getList
+                End If
+        End Select
 
     End Function
+    Public Function getCheckedProcessFileNameList() As String
 
+        Dim processList As New myList
+        processList.setList(getCheckedProcessList)
+
+        getCheckedProcessFileNameList = ""
+
+        Dim indexList As New myList
+        indexList.setList(getCheckedProcessIndices)
+
+        For i = 0 To indexList.length(DL) - 1
+            getCheckedProcessFileNameList = appendString(getCheckedProcessFileNameList, designString.getVar("PATH" & indexList.getItem(i, DL)), DL)
+        Next
+
+    End Function
+    Private Function getCheckedProcessIndices() As String
+        Return getCheckedProcessList(, True)
+    End Function
 End Class

@@ -1396,3 +1396,4 @@ C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\Interop.AcroPDFLib.dll
 C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\bin\Debug\AxInterop.AcroPDFLib.dll
 C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.exe.manifest
 C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\convCam.application
+C:\Users\Brad\Desktop\CCAM Stuff\ConvCam 1.40\obj\Debug\conversionalCAM.frmImageListMaker.resources

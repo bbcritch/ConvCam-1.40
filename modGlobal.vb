@@ -81,6 +81,7 @@ Module modGlobal
     Public toolIdx As String
 
     Public quickStateHolder As String
+    Public glbImageList As String
 
     Public Function flattenString(ByVal s As String) As String
 

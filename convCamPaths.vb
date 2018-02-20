@@ -116,7 +116,10 @@ Public Class convCamPaths
         Dim f As New fileManager
 
         Dim s As String = x.extract(f.fileRead(Configs() & "\partPath.txt"), "PATH")
-        If s = "" Then s = partPath()
+        If s = "" Then
+            gPath.makeUserPartPath(partPath)
+            s = x.extract(f.fileRead(Configs() & "\partPath.txt"), "PATH")
+        End If
 
         Return s
 

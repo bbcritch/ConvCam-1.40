@@ -193,6 +193,7 @@ Public Class frmConvCAM
 
             p.readProcessDefinitionFile(sTemplateName)
             dispView()
+
             LoadPicture(picBigPic, sTemplateName.Replace(".txt", ".bmp"))
 
         End If
@@ -672,33 +673,118 @@ Public Class frmConvCAM
     End Sub
     Private Sub setPictures()
 
-        Dim fname As String, x As New myXmlUtils
+        Dim fname As String
+        Dim ary() As String
+        Dim x As New myXmlUtils
+        Dim picAndTabName() As String
+        Dim tabLabel As String
 
-        fname = p.stateInfoDetail("SMPIC")
+        'fname = p.stateInfoDetail("SMPIC")
 
-        Select Case fname.ToLower
-            Case "", "none"
-                picSmallPic.Visible = False
-                LoadPicture(picSmallPic, "")
-                lblPrompt.Width = 298
-            Case "same"
-            Case Else
-                LoadPicture(picSmallPic, fname)
-                picSmallPic.Visible = True
-                lblPrompt.Width = 200
-        End Select
+        'Select Case fname.ToLower
+        '    Case "", "none"
+        '        picSmallPic.Visible = False
+        '        LoadPicture(picSmallPic, "")
+        '        lblPrompt.Width = 298
+        '    Case "same"
+        '    Case Else
+        '        LoadPicture(picSmallPic, fname)
+        '        picSmallPic.Visible = True
+        '        lblPrompt.Width = 200
+        'End Select
 
         fname = p.stateInfoDetail("LGPIC")
-
         Select Case fname.ToLower
             Case "", "none"
                 LoadPicture(picBigPic, "")
+                pnlSingleImage.Visible = True
+                pnlImages.Visible = False
             Case "same"
             Case Else
-                LoadPicture(picBigPic, fname)
+
+                ' multi image format:   filename:tabname#filename:tabname#..
+                ary = fname.Split("#")
+
+                If ary.Length = 1 Then
+                    pnlSingleImage.Visible = True
+                    pnlImages.Visible = False
+                    LoadPicture(picBigPic, fname)
+                Else
+
+                    ' For multiple images, show the multi image panel with the tabs,
+                    ' hide all the tabs, then add those for which there are images.
+                    pnlSingleImage.Visible = False
+                    pnlImages.Visible = True
+
+                    removeTabPages()
+
+                    For i = 0 To 9
+
+                        ' Parse out the picture name and tab name
+                        picAndTabName = ary(i).Split(":")
+
+                        ' Pull the tab name (label) from picAndTabName(1)
+                        If picAndTabName.Length = 2 Then
+                            tabLabel = picAndTabName(1)
+                        Else
+                            tabLabel = "Tab " & i.ToString
+                        End If
+
+                        ' Only add tab pages, if there is an image for it.
+                        If ary(i).Length > 0 Then
+                            Select Case i
+                                Case 0
+                                    LoadPicture(pic0, picAndTabName(0))
+                                Case 1
+                                    LoadPicture(pic1, picAndTabName(0))
+                                Case 2
+                                    LoadPicture(pic2, picAndTabName(0))
+                                Case 3
+                                    LoadPicture(pic3, picAndTabName(0))
+                                Case 4
+                                    LoadPicture(pic4, picAndTabName(0))
+                                Case 5
+                                    LoadPicture(Pic5, picAndTabName(0))
+                                Case 6
+                                    LoadPicture(Pic6, picAndTabName(0))
+                                Case 7
+                                    LoadPicture(Pic7, picAndTabName(0))
+                                Case 8
+                                    LoadPicture(Pic8, picAndTabName(0))
+                                Case 9
+                                    LoadPicture(Pic9, picAndTabName(0))
+                            End Select
+                            addTabPage(i, tabLabel)
+                        End If
+                    Next
+                End If
         End Select
 
+    End Sub
 
+    Private Sub removeTabPages()
+        Try
+            For i = 0 To 9
+                tabImages.TabPages.Remove(tabImages.TabPages("TabPage" & (i + 1).ToString))
+            Next
+        Catch
+        End Try
+
+    End Sub
+    Private Sub addTabPage(ByVal idx As Integer, ByVal tabLabel As String)
+
+        Try
+            tabImages.TabPages.Add(tabImages.TabPages("TabPage" & (idx + 1).ToString))
+        Catch
+            '' Ignore error if already present
+        End Try
+
+        ' If there is no tab label, name it "View idx"
+        If tabLabel.Length = 0 Then
+            tabImages.TabPages.Item(idx).Text = "View " & (idx + 1).ToString
+        Else
+            tabImages.TabPages.Item(idx).Text = tabLabel
+        End If
 
     End Sub
     Private Function inputCheck(ByVal varName As String, ByVal valu As String, ByVal lLim As String, ByVal uLim As String) As String
@@ -1153,7 +1239,7 @@ Public Class frmConvCAM
 
         Dim f As New fileManager
         ''       If GCODEDIR = "" Then GCODEDIR = gPath.addSlash(gPath.basePath) & "My gCode"
-
+        buildGCODE()
         If txtGcodeBox.Text.Trim <> "" Then
 
             dlgSave.Reset()
@@ -1464,11 +1550,13 @@ Public Class frmConvCAM
         Select Case tabName
 
             Case "Part"
-                If PartDisp = "Part" Then
-                    txtReport.Text = dh.makeDesignReport()
-                End If
+                ''If PartDisp = "Part" Then
+                ''    txtReport.Text = dh.makeDesignReport()
+                ''End If
                 ''Case "G Code"
                 ''    buildGCODE()
+            Case "Report"
+                txtReport.Text = dh.makeDesignReport()
             Case "Log"
             Case "Web Site"
         End Select
@@ -1653,6 +1741,9 @@ Public Class frmConvCAM
         If dialogResponse = "cancel" Then Exit Sub
 
         showProcess()
+
+        stateVars.setVar("GCODETOOLPATHDESCRIPTION", "")
+        Me.txtGCodeToolPathDescription.Text = ""
 
         loadProcessTemplate()
         p.getProcessVars()
@@ -1872,9 +1963,9 @@ Public Class frmConvCAM
 
         tabName = tabMain.SelectedTab.Name.ToString
 
-        ''If tabName = "G Code" Then
-        ''    buildGCODE()
-        ''End If
+        If tabName = "Report1" Then
+            txtReport.Text = dh.makeDesignReport
+        End If
 
         SetFileMenu(tabName)
 
@@ -2015,7 +2106,7 @@ Public Class frmConvCAM
     End Sub
     Private Sub SaveToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles SaveToolStripMenuItem.Click
         savePartFile1()
-
+        buildGCODE()
     End Sub
     Private Sub OpenToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OpenToolStripMenuItem.Click
 
@@ -2495,7 +2586,7 @@ Public Class frmConvCAM
         If abortSave = False Then
             SaveCompositePartFile()
             lblStatus.Text = "File Saved."
-            System.Threading.Thread.Sleep(2000)
+            System.Threading.Thread.Sleep(1000)
             UpdateStatusBar()
             txtReport.Text = dh.makeDesignReport
         End If

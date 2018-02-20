@@ -371,11 +371,12 @@
     End Function
     Public Function GetCurrentStationAssignments()
 
-        Dim sToolList As New myList
+        ''        Dim sToolList As New myList
         Dim sUniqueTools As String
 
-        sToolList.setList(dh.getToolList)
-        sUniqueTools = UniqueToolList(dh.getToolList)
+        ''        sToolList.setList(dh.getToolList)
+        ''sUniqueTools = UniqueToolList(dh.getToolList)
+        sUniqueTools = UniqueToolList(dh.makeToolList)
 
         If STATIONFILE = "AUTO" Then
             AssignTools(sUniqueTools)
