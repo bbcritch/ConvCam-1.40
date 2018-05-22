@@ -68,6 +68,10 @@
 
         Dim ary() As String
 
+        If idx = -1 Then
+            Return ""
+        End If
+
         If s <> "" Then
             ary = s.Split(delim)
             If idx < ary.Length Then

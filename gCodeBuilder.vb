@@ -42,6 +42,10 @@
         Call s.setList(dh.getCheckedProcessList)
         ' Step through each process
 
+        If s.length = 0 Then
+            Return ""
+        End If
+
         pQty = s.length(DL) - 1
 
         For i = 0 To s.length(DL) - 1
@@ -51,7 +55,13 @@
 
             ' Set first and last processes
             stateVars.setVar("FirstProcess", s.getItem(0, DL))
-            stateVars.setVar("LastProcess", s.getItem(pQty - 1, DL))
+
+            If pQty = 0 Then
+                stateVars.setVar("LastProcess", s.getItem(0, DL)) ' First and last process are the same
+            Else
+                stateVars.setVar("LastProcess", s.getItem(pQty - 1, DL))
+            End If
+
             stateVars.setVar("PreviousBedAngle", PrevBedAngle)
 
             ' Build GCODE for each process and append them
@@ -232,9 +242,7 @@
         s = meta.Split(vbLf)
 
         For i = 0 To s.Length - 1
-
             addCodeLine(s, i)
-
         Next
 
     End Sub
@@ -281,6 +289,12 @@
         Dim s1 As String
 
         s(idx) = s(idx).Trim
+
+        If s(idx).Length > 0 Then
+            If s(idx).Substring(0, 1) = "&" Then
+                Exit Sub
+            End If
+        End If
 
         If s(idx).IndexOf("#PAUSE") >= 0 Then
             Dim dummy = "Place to set debugger to pause"
@@ -555,10 +569,14 @@
 
         For i = 0 To a.Length - 1
 
-            If a(i).IndexOf("#FILE ") >= 0 Then
-                fString = appendString(fString, getGcodeFile(a(i)), vbLf)
+            If a(i).Trim.StartsWith("&") Then
+                ' Do nothing, it's a developer comment.
             Else
-                fString = appendString(fString, a(i), vbLf)
+                If a(i).IndexOf("#FILE ") >= 0 Then
+                    fString = appendString(fString, getGcodeFile(a(i)), vbLf)
+                Else
+                    fString = appendString(fString, a(i), vbLf)
+                End If
             End If
 
         Next
@@ -589,10 +607,14 @@
 
         For i = 0 To t.Length - 1
 
-            If t(i).IndexOf("#FILE ") >= 0 Then
-                returnCode = appendString(returnCode, getGcodeFile(t(i)), vbLf)
+            If t(i).Trim.StartsWith("&") Then
+                ' Do nothing, it's a developer comment
             Else
-                returnCode = appendString(returnCode, t(i), vbLf)
+                If t(i).IndexOf("#FILE ") >= 0 Then
+                    returnCode = appendString(returnCode, getGcodeFile(t(i)), vbLf)
+                Else
+                    returnCode = appendString(returnCode, t(i), vbLf)
+                End If
             End If
 
         Next

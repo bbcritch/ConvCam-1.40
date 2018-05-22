@@ -128,6 +128,10 @@
         '       t.setList(getProcessFileList)
         t.setList(getCheckedProcessFileNameList)
 
+        If t.length = 0 Then
+            Return ""
+        End If
+
         For i = 0 To t.length(DL) - 1
 
             s = f.fileRead(t.getItem(i, DL) & ".txt")
@@ -545,7 +549,7 @@
         ' Otherwise, return only the checked ones.
         Select Case checkedProcessList.length(DL)
             Case 0
-                Return allProcessList.getList
+                Return ""
             Case Else
                 If getAll Then
                     Return allProcessList.getList
@@ -559,6 +563,11 @@
 
         Dim processList As New myList
         processList.setList(getCheckedProcessList)
+
+        If processList.length(DL) = 0 Then
+            getCheckedProcessFileNameList = ""
+            Exit Function
+        End If
 
         getCheckedProcessFileNameList = ""
 

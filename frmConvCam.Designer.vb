@@ -23,12 +23,12 @@ Partial Class frmConvCAM
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmConvCAM))
-        Dim DataGridViewCellStyle37 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle38 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle39 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle40 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle41 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle42 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle11 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle12 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.FileToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.NewToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -121,8 +121,6 @@ Partial Class frmConvCAM
         Me.btnDone = New System.Windows.Forms.Button()
         Me.btNext = New System.Windows.Forms.Button()
         Me.btnBack = New System.Windows.Forms.Button()
-        Me.pnlSingleImage = New System.Windows.Forms.Panel()
-        Me.picBigPic = New System.Windows.Forms.PictureBox()
         Me.pnlImages = New System.Windows.Forms.Panel()
         Me.tabImages = New System.Windows.Forms.TabControl()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
@@ -145,6 +143,8 @@ Partial Class frmConvCAM
         Me.Pic8 = New System.Windows.Forms.PictureBox()
         Me.TabPage10 = New System.Windows.Forms.TabPage()
         Me.Pic9 = New System.Windows.Forms.PictureBox()
+        Me.pnlSingleImage = New System.Windows.Forms.Panel()
+        Me.picBigPic = New System.Windows.Forms.PictureBox()
         Me.pnlPart = New System.Windows.Forms.Panel()
         Me.btnBlankDescription = New System.Windows.Forms.Button()
         Me.grpPartProcesses = New System.Windows.Forms.GroupBox()
@@ -185,8 +185,6 @@ Partial Class frmConvCAM
         Me.Panel5.SuspendLayout()
         CType(Me.picSmallPic, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel4.SuspendLayout()
-        Me.pnlSingleImage.SuspendLayout()
-        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.pnlImages.SuspendLayout()
         Me.tabImages.SuspendLayout()
         Me.TabPage1.SuspendLayout()
@@ -209,6 +207,8 @@ Partial Class frmConvCAM
         CType(Me.Pic8, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage10.SuspendLayout()
         CType(Me.Pic9, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.pnlSingleImage.SuspendLayout()
+        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.pnlPart.SuspendLayout()
         Me.grpPartProcesses.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
@@ -584,8 +584,8 @@ Partial Class frmConvCAM
         '
         'Part
         '
-        Me.Part.Controls.Add(Me.pnlProcess)
         Me.Part.Controls.Add(Me.pnlPart)
+        Me.Part.Controls.Add(Me.pnlProcess)
         Me.Part.Location = New System.Drawing.Point(4, 22)
         Me.Part.Name = "Part"
         Me.Part.Padding = New System.Windows.Forms.Padding(3)
@@ -744,12 +744,12 @@ Partial Class frmConvCAM
         '
         'Parameter
         '
-        DataGridViewCellStyle37.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
-        DataGridViewCellStyle37.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        DataGridViewCellStyle37.SelectionBackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        DataGridViewCellStyle37.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle37.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.Parameter.DefaultCellStyle = DataGridViewCellStyle37
+        DataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
+        DataGridViewCellStyle10.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        DataGridViewCellStyle10.SelectionBackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        DataGridViewCellStyle10.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.Parameter.DefaultCellStyle = DataGridViewCellStyle10
         Me.Parameter.FillWeight = 150.0!
         Me.Parameter.HeaderText = "Parameter"
         Me.Parameter.Name = "Parameter"
@@ -760,11 +760,11 @@ Partial Class frmConvCAM
         '
         'Value
         '
-        DataGridViewCellStyle38.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
-        DataGridViewCellStyle38.SelectionBackColor = System.Drawing.Color.White
-        DataGridViewCellStyle38.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle38.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.Value.DefaultCellStyle = DataGridViewCellStyle38
+        DataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft
+        DataGridViewCellStyle11.SelectionBackColor = System.Drawing.Color.White
+        DataGridViewCellStyle11.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.Value.DefaultCellStyle = DataGridViewCellStyle11
         Me.Value.FillWeight = 150.0!
         Me.Value.HeaderText = "Value"
         Me.Value.Name = "Value"
@@ -775,11 +775,11 @@ Partial Class frmConvCAM
         'cmdButtons
         '
         Me.cmdButtons.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
-        DataGridViewCellStyle39.BackColor = System.Drawing.SystemColors.ButtonFace
-        DataGridViewCellStyle39.ForeColor = System.Drawing.SystemColors.ButtonFace
-        DataGridViewCellStyle39.SelectionBackColor = System.Drawing.SystemColors.ButtonFace
-        DataGridViewCellStyle39.SelectionForeColor = System.Drawing.SystemColors.ButtonFace
-        Me.cmdButtons.DefaultCellStyle = DataGridViewCellStyle39
+        DataGridViewCellStyle12.BackColor = System.Drawing.SystemColors.ButtonFace
+        DataGridViewCellStyle12.ForeColor = System.Drawing.SystemColors.ButtonFace
+        DataGridViewCellStyle12.SelectionBackColor = System.Drawing.SystemColors.ButtonFace
+        DataGridViewCellStyle12.SelectionForeColor = System.Drawing.SystemColors.ButtonFace
+        Me.cmdButtons.DefaultCellStyle = DataGridViewCellStyle12
         Me.cmdButtons.FillWeight = 120.0!
         Me.cmdButtons.HeaderText = "Help"
         Me.cmdButtons.Name = "cmdButtons"
@@ -974,29 +974,6 @@ Partial Class frmConvCAM
         Me.btnBack.TabIndex = 0
         Me.btnBack.Text = "<<"
         Me.btnBack.UseVisualStyleBackColor = True
-        '
-        'pnlSingleImage
-        '
-        Me.pnlSingleImage.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.pnlSingleImage.Controls.Add(Me.picBigPic)
-        Me.pnlSingleImage.Location = New System.Drawing.Point(3, 331)
-        Me.pnlSingleImage.Name = "pnlSingleImage"
-        Me.pnlSingleImage.Size = New System.Drawing.Size(926, 215)
-        Me.pnlSingleImage.TabIndex = 13
-        '
-        'picBigPic
-        '
-        Me.picBigPic.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.picBigPic.BackColor = System.Drawing.Color.White
-        Me.picBigPic.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.picBigPic.Location = New System.Drawing.Point(4, 5)
-        Me.picBigPic.Name = "picBigPic"
-        Me.picBigPic.Size = New System.Drawing.Size(919, 207)
-        Me.picBigPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
-        Me.picBigPic.TabIndex = 12
-        Me.picBigPic.TabStop = False
         '
         'pnlImages
         '
@@ -1257,6 +1234,29 @@ Partial Class frmConvCAM
         Me.Pic9.TabIndex = 16
         Me.Pic9.TabStop = False
         '
+        'pnlSingleImage
+        '
+        Me.pnlSingleImage.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.pnlSingleImage.Controls.Add(Me.picBigPic)
+        Me.pnlSingleImage.Location = New System.Drawing.Point(3, 331)
+        Me.pnlSingleImage.Name = "pnlSingleImage"
+        Me.pnlSingleImage.Size = New System.Drawing.Size(926, 215)
+        Me.pnlSingleImage.TabIndex = 13
+        '
+        'picBigPic
+        '
+        Me.picBigPic.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.picBigPic.BackColor = System.Drawing.Color.White
+        Me.picBigPic.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.picBigPic.Location = New System.Drawing.Point(4, 5)
+        Me.picBigPic.Name = "picBigPic"
+        Me.picBigPic.Size = New System.Drawing.Size(919, 207)
+        Me.picBigPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
+        Me.picBigPic.TabIndex = 12
+        Me.picBigPic.TabStop = False
+        '
         'pnlPart
         '
         Me.pnlPart.Controls.Add(Me.btnBlankDescription)
@@ -1359,12 +1359,12 @@ Partial Class frmConvCAM
         '
         'selCol
         '
-        DataGridViewCellStyle40.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle40.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle40.ForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle40.SelectionBackColor = System.Drawing.Color.White
-        DataGridViewCellStyle40.SelectionForeColor = System.Drawing.Color.Black
-        Me.selCol.DefaultCellStyle = DataGridViewCellStyle40
+        DataGridViewCellStyle7.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle7.ForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.White
+        DataGridViewCellStyle7.SelectionForeColor = System.Drawing.Color.Black
+        Me.selCol.DefaultCellStyle = DataGridViewCellStyle7
         Me.selCol.Frozen = True
         Me.selCol.HeaderText = ""
         Me.selCol.Name = "selCol"
@@ -1376,11 +1376,11 @@ Partial Class frmConvCAM
         'ProcessName
         '
         Me.ProcessName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None
-        DataGridViewCellStyle41.BackColor = System.Drawing.Color.White
-        DataGridViewCellStyle41.ForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle41.SelectionBackColor = System.Drawing.Color.White
-        DataGridViewCellStyle41.SelectionForeColor = System.Drawing.Color.Black
-        Me.ProcessName.DefaultCellStyle = DataGridViewCellStyle41
+        DataGridViewCellStyle8.BackColor = System.Drawing.Color.White
+        DataGridViewCellStyle8.ForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle8.SelectionBackColor = System.Drawing.Color.White
+        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.Black
+        Me.ProcessName.DefaultCellStyle = DataGridViewCellStyle8
         Me.ProcessName.Frozen = True
         Me.ProcessName.HeaderText = "Toolpath Template Name"
         Me.ProcessName.Name = "ProcessName"
@@ -1390,9 +1390,9 @@ Partial Class frmConvCAM
         'GCode
         '
         Me.GCode.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill
-        DataGridViewCellStyle42.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle42.Font = New System.Drawing.Font("Wingdings 2", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
-        Me.GCode.DefaultCellStyle = DataGridViewCellStyle42
+        DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle9.Font = New System.Drawing.Font("Wingdings 2", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
+        Me.GCode.DefaultCellStyle = DataGridViewCellStyle9
         Me.GCode.HeaderText = "G Code"
         Me.GCode.Name = "GCode"
         Me.GCode.ReadOnly = True
@@ -1598,8 +1598,6 @@ Partial Class frmConvCAM
         Me.Panel5.ResumeLayout(False)
         CType(Me.picSmallPic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel4.ResumeLayout(False)
-        Me.pnlSingleImage.ResumeLayout(False)
-        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.pnlImages.ResumeLayout(False)
         Me.tabImages.ResumeLayout(False)
         Me.TabPage1.ResumeLayout(False)
@@ -1622,6 +1620,8 @@ Partial Class frmConvCAM
         CType(Me.Pic8, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage10.ResumeLayout(False)
         CType(Me.Pic9, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.pnlSingleImage.ResumeLayout(False)
+        CType(Me.picBigPic, System.ComponentModel.ISupportInitialize).EndInit()
         Me.pnlPart.ResumeLayout(False)
         Me.grpPartProcesses.ResumeLayout(False)
         Me.GroupBox1.ResumeLayout(False)

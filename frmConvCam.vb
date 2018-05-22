@@ -1005,6 +1005,12 @@ Public Class frmConvCAM
             Case "Part"
                 If Part.Visible Then
 
+                    If PartFileName <> "" Then
+                        If MsgBox("Do you wish to save your part (" & PartFileName & ") before creating a new one?", MsgBoxStyle.YesNoCancel) = MsgBoxResult.Yes Then
+                            savePartFile1()
+                        End If
+                    End If
+
                     PartFileName = ""
                     Descriptions = ""
                     DesignerName = ""
@@ -1025,7 +1031,7 @@ Public Class frmConvCAM
 
                 End If
             Case "G Code"
-                txtGcodeBox.Text = ""
+                    txtGcodeBox.Text = ""
         End Select
 
     End Sub
@@ -1917,7 +1923,7 @@ Public Class frmConvCAM
 
         Select Case cl
             Case HELPCOLUMN
-                Call showHelpMessage(getCell(grdSummary, rw, 5))
+                Call showHelpMessage(getCell(grdSummary, rw, STATENAMECOL))
             Case TITLECOLUMN, VARCOLUMN
                 AdvanceTo(rw)
         End Select
@@ -2903,4 +2909,7 @@ Public Class frmConvCAM
         Next
     End Sub
 
+    Private Sub grdProcessList_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles grdProcessList.CellContentClick
+
+    End Sub
 End Class
